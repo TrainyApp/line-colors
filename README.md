@@ -19,6 +19,7 @@ The `line-colors.csv` contains several columns:
   - `rectangle-rounded-corner`: Rectangle with rounded corners
   - `pill`: Rectangle with completely rounded corners
   - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
+  - `diagonal1`: A rectangle with a dual color background seperated by a line from the bottom right to the top left
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
 
 ## Contributing
