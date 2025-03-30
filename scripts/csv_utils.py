@@ -1,3 +1,7 @@
+import csv
+from pathlib import Path
+
+
 def read_csv(path: str) -> list[dict]:
     line_text = Path(f'../{path}').read_text(encoding="utf-8")
     return list(csv.DictReader(line_text.splitlines()))
