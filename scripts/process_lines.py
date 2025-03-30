@@ -36,7 +36,7 @@ for line in lines:
     if composite_line_key in special_lines:
         line["risOperatorCode"] = special_lines[composite_line_key]
 
-with open('../ris-line-colors.csv', 'w', encoding='utf-8', newline="") as f:
+with open('../ris-line-colors.csv', 'w', encoding='utf-8', newline="\n") as f:
     writer = csv.DictWriter(f, fieldnames=list(lines[0].keys()) + ['risOperatorCode'])
     writer.writeheader()
     writer.writerows(lines)
