@@ -22,8 +22,8 @@ relevant_operators_with_name = {}
 
 for relevant_operator in relevant_operators:
     name = operators[relevant_operator]
-    matching_id = administrations[name] if name in administrations else None
-    matching_id = manual_operators[relevant_operator] if relevant_operator in manual_operators else matching_id
+    matching_id = manual_operators[relevant_operator] if relevant_operator in manual_operators else None
+    # matching_id = administrations[name] if name in administrations and matching_id is None else matching_id
     if matching_id is None:
         continue
     relevant_operators_with_name[relevant_operator] = matching_id
