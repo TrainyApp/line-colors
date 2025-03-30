@@ -1,8 +1,8 @@
 import csv
 import re
 
-from scripts.csv_utils import read_csv, create_map, parse_special_lines
-from scripts.fetch_administrations import fetch_administration_map
+from csv_utils import read_csv, create_map, parse_special_lines
+from fetch_administrations import fetch_administration_map
 
 standalone_line_mapper = re.compile(r"rb|re|mex-\\d+", re.IGNORECASE)
 
