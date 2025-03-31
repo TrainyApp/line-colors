@@ -90,17 +90,17 @@ re-6,mitteldeutsche-regiobahn,RE 6,CX
 rb-30,mitteldeutsche-regiobahn,RB 30,CX
 rb-45,mitteldeutsche-regiobahn,RB 45,CX
 rb-110,mitteldeutsche-regiobahn,RB 110,CX
-nbe-rb61,nordbahn,RB 61,00
-nbe-rb64,nordbahn,RB 64,00
+nbe-rb61,nordbahn,RB 61,O0
+nbe-rb64,nordbahn,RB 64,O0
 neg-rb65,norddeutsche-eisenbahn-gesellschaft,RB 65,N0
 neg-rb66,norddeutsche-eisenbahn-gesellschaft,RB 66,N0
-nbe-rb71,nordbahn,RB 71,00
-nbe-re72,nordbahn,RE 72,00
-nbe-re73,nordbahn,RB 73,00
-nbe-re74,nordbahn,RE 74,00
-nbe-re75,nordbahn,RB 75,00
+nbe-rb71,nordbahn,RB 71,O0
+nbe-re72,nordbahn,RE 72,O0
+nbe-re73,nordbahn,RB 73,O0
+nbe-re74,nordbahn,RE 74,O0
+nbe-re75,nordbahn,RB 75,O0
 erx-rb76,erixx,RB 76,X1
-nbe-rb82,nordbahn,RB 82,00
+nbe-rb82,nordbahn,RB 82,O0
 erx-re83,erixx,RE 83,X1
 erx-rb84,erixx,RB 84,X1
 rb-12,neb-niederbarnimer-eisenbahn,RB12,NB
