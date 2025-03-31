@@ -1,13 +1,265 @@
-hafasOperatorCode,hafasLineId,risOperatorId
-neb-niederbarnimer-eisenbahn,rb-12,NBRB12
-neb-niederbarnimer-eisenbahn,rb-25,NBRB25
-neb-niederbarnimer-eisenbahn,rb-26,NBRB26
-neb-niederbarnimer-eisenbahn,rb-27,NBRB27
-neb-niederbarnimer-eisenbahn,rb-35,NBRB35
-neb-niederbarnimer-eisenbahn,rb-36,NBRB36
-neb-niederbarnimer-eisenbahn,rb-54,NBRB54
-neb-niederbarnimer-eisenbahn,rb-60,NBRB60
-neb-niederbarnimer-eisenbahn,rb-61,NBRB61
-neb-niederbarnimer-eisenbahn,rb-62,NBRB62
-neb-niederbarnimer-eisenbahn,rb-63,NBRB63
-neb-niederbarnimer-eisenbahn,rb-tes,NBRG27
+hafasLineId,hafasOperatorCode,lineName,risOperatorCode
+ag-rb15,agilis,RB 15,A9
+ag-rb17,agilis,RB 17,A9
+ag-rb18,agilis,RB 18,A9
+ag-rb21,agilis,RB 21,A9
+ag-rb22,agilis,RB 22,A9
+ag-rb24,agilis,RB 24,A9
+ag-rb26,agilis,RB 26,A9
+ag-rb34,agilis,RB 34,A9
+ag-rb51,agilis,RB 51,A9
+ag-rb95,agilis,RB 95,A9
+ag-rb96,agilis,RB 96,A9
+ag-rb97,agilis,RB 97,A9
+ag-rb98,agilis,RB 98,A9
+ag-rb99,agilis,RB 99,A9
+ag-re18,agilis,RE 18,A9
+re23,alex-die-landerbahn-gmbh-dlb,RE 23,A8
+re25,alex-die-landerbahn-gmbh-dlb,RE 25,A8
+re-1,arverio-baden-wurttemberg,RE 1,GA
+mex-13,arverio-baden-wurttemberg,MEX 13,GA
+mex-16,arverio-baden-wurttemberg,MEX 16,GA
+re-8,arverio-baden-wurttemberg,RE 8,GA
+rb-8,arverio-baden-wurttemberg,RB 8,GA
+re-90,arverio-baden-wurttemberg,RE 90,GA
+rb-86,arverio-bayern,RB86,GY
+rb-87,arverio-bayern,RB87,GY
+rb-89,arverio-bayern,RB89,GY
+rb-92,arverio-bayern,RB92,GY
+re-72,arverio-bayern,RE72,GY
+re-80,arverio-bayern,RE80,GY
+re-89,arverio-bayern,RE89,GY
+re-9,arverio-bayern,RE9,GY
+re-96,arverio-bayern,RE96,GY
+bzb-rb64,bayerische-zugspitzbahn,RB 64,Z8
+brb-rb13,bayerische-regiobahn,RB 13,Y8
+brb-rb14,bayerische-regiobahn,RB 14,Y8
+brb-rb53,bayerische-regiobahn,RB 53,L8
+brb-rb54,bayerische-regiobahn,RB 54,M8
+brb-rb55,bayerische-regiobahn,RB 55,T8
+brb-rb56,bayerische-regiobahn,RB 56,T8
+brb-rb57,bayerische-regiobahn,RB 57,T8
+brb-rb58,bayerische-regiobahn,RB 58,M8
+brb-rb67,bayerische-regiobahn,RB 67,Y8
+brb-rb68,bayerische-regiobahn,RB 68,Y8
+brb-rb69,bayerische-regiobahn,RB 69,Y8
+brb-rb77,bayerische-regiobahn,RB 77,Y8
+brb-rb83,bayerische-regiobahn,RB 83,Y8
+brb-re5,bayerische-regiobahn,RE 5,M8
+re-11,cfl,RE 11,800640
+rb-83,cfl,RB 83,801512
+rb-13,erfurter-bahn-gmbh,RB 13,EB
+rb-40,erfurter-bahn-gmbh,RB 40,EB
+rb-50,erfurter-bahn-gmbh,RB 50,EB
+rb-16,hanseatische-eisenbahn-gmbh,RB16,PB
+rb-33,hanseatische-eisenbahn-gmbh,RB33,PB
+rb-34,hanseatische-eisenbahn-gmbh,RB34,PB
+rb-73,hanseatische-eisenbahn-gmbh,RB73,PB
+rb-74,hanseatische-eisenbahn-gmbh,RB74,PB
+re27,hanseatische-eisenbahn-gmbh,RE27,PB
+hlb-rb21,hlb-hessenbahn-gmbh,RB21,K4
+hlb-rb29,hlb-hessenbahn-gmbh,RB29,K4
+hlb-rb37,hlb-hessenbahn-gmbh,RB37,K4
+hlb-rb40,hlb-hessenbahn-gmbh,RB40,K4
+hlb-rb41,hlb-hessenbahn-gmbh,RB41,K4
+hlb-rb45,hlb-hessenbahn-gmbh,RB45,K4
+hlb-rb46,hlb-hessenbahn-gmbh,RB46,K4
+hlb-rb47,hlb-hessenbahn-gmbh,RB47,K4
+hlb-rb48,hlb-hessenbahn-gmbh,RB48,K4
+hlb-rb49,hlb-hessenbahn-gmbh,RB49,K4
+hlb-rb52,hlb-hessenbahn-gmbh,RB52,K4
+hlb-rb58,hlb-hessenbahn-gmbh,RB58,K4
+hlb-rb61,hlb-hessenbahn-gmbh,RB61,K4
+hlb-rb75,hlb-hessenbahn-gmbh,RB75,K4
+hlb-rb90,hlb-hessenbahn-gmbh,RB90,K4
+hlb-re9,hlb-hessenbahn-gmbh,RE9,K4
+hlb-re59,hlb-hessenbahn-gmbh,RE59,K4
+hlb-re24,hlb-hessenbahn-gmbh,RE24,K4
+hlb-re98,hlb-hessenbahn-gmbh,RE98,K4
+hlb-re99,hlb-hessenbahn-gmbh,RE99,K4
+akn-a1,akn-eisenbahn-gmbh,A 1,A0
+akn-a2,akn-eisenbahn-gmbh,A 2,A0
+akn-a3,akn-eisenbahn-gmbh,A 3,A0
+me-rb31,metronom,RB31,R1
+me-rb41,metronom,RB41,R1
+me-re2,metronom,RE2,R1
+me-re3,metronom,RE3,R1
+me-re4,metronom,RE4,R1
+re-3,mitteldeutsche-regiobahn,RE 3,CX
+re-6,mitteldeutsche-regiobahn,RE 6,CX
+rb-30,mitteldeutsche-regiobahn,RB 30,CX
+rb-45,mitteldeutsche-regiobahn,RB 45,CX
+rb-110,mitteldeutsche-regiobahn,RB 110,CX
+nbe-rb61,nordbahn,RB 61,00
+nbe-rb64,nordbahn,RB 64,00
+neg-rb65,norddeutsche-eisenbahn-gesellschaft,RB 65,N0
+neg-rb66,norddeutsche-eisenbahn-gesellschaft,RB 66,N0
+nbe-rb71,nordbahn,RB 71,00
+nbe-re72,nordbahn,RE 72,00
+nbe-re73,nordbahn,RB 73,00
+nbe-re74,nordbahn,RE 74,00
+nbe-re75,nordbahn,RB 75,00
+erx-rb76,erixx,RB 76,X1
+nbe-rb82,nordbahn,RB 82,00
+erx-re83,erixx,RE 83,X1
+erx-rb84,erixx,RB 84,X1
+rb-12,neb-niederbarnimer-eisenbahn,RB12,NB
+rb-25,neb-niederbarnimer-eisenbahn,RB25,NB
+rb-26,neb-niederbarnimer-eisenbahn,RB26,NB
+rb-27,neb-niederbarnimer-eisenbahn,RB27,NB
+rb-35,neb-niederbarnimer-eisenbahn,RB35,NB
+rb-36,neb-niederbarnimer-eisenbahn,RB36,NB
+rb-54,neb-niederbarnimer-eisenbahn,RB54,NB
+rb-60,neb-niederbarnimer-eisenbahn,RB60,NB
+rb-61,neb-niederbarnimer-eisenbahn,RB61,NB
+rb-62,neb-niederbarnimer-eisenbahn,RB62,NB
+rb-63,neb-niederbarnimer-eisenbahn,RB63,NB
+rb-tes,neb-niederbarnimer-eisenbahn,TES,NB
+re-1,national-express,RE 1,NX
+re-3,eurobahn,RE 3,R2
+re-4,national-express,RE 4,NX
+re-5,national-express,RE 5,NX
+re-6,national-express,RE 6,NX
+re-7,national-express,RE 7,NX
+rrb-re10,rheinruhrbahn-transdev,RE 10,TD
+re-11,national-express,RE 11,NX
+re-13,eurobahn,RE 13,R2
+rrb-re14,rheinruhrbahn-transdev,RE 14,TD
+via-re16,vias-rail-gmbh,RE 16,R4
+via-re19,vias-rail-gmbh,RE 19,R4
+rtb-rb21,rurtalbahn,RB 21,D3
+rb-26,mittelrheinbahn-trans-regio,RB 26,TR
+rtb-rb28,rurtalbahn,RB 28,D3
+re-29,sncb,RE 29,88
+rrb-rb31,rheinruhrbahn-transdev,RB 31,TD
+re-34,db-fernverkehr-ag,RE 34,NZ
+hlb-re34,hlb-hessenbahn-gmbh,RE 34,K4
+via-rb34,vias-rail-gmbh,RB 34,R4
+via-rb35,vias-rail-gmbh,RB 35,R4
+rrb-rb36,rheinruhrbahn-transdev,RB 36,TD
+tri-rb37,tri-train-rental-gmbh,RB 37,TRI
+via-rb39,vias-rail-gmbh,RB 39,R4
+rrb-re44,rheinruhrbahn-transdev,RE 44,TD
+via-rb46,vias-rail-gmbh,RB 46,R4
+r-re-47,regiobahn,RE 47,M2
+rb-48,national-express,RB 48,NX
+rb-50,eurobahn,RB 50,R2
+nwb-rb58,nordwestbahn,RB 58,N1
+rb-59,eurobahn,RB 59,R2
+rb-61,eurobahn,RB 61,R2
+rb-65,eurobahn,RB 65,R2
+rb-66,eurobahn,RB 66,R2
+rb-67,eurobahn,RB 67,R2
+rb-69,eurobahn,RB 69,R2
+rb-71,eurobahn,RB 71,R2
+rb-72,eurobahn,RB 72,R2
+rb-73,eurobahn,RB 73,R2
+nwb-rb74,nordwestbahn,RB 74,N2
+nwb-rb75,nordwestbahn,RB 75,N2
+rb-77,regionalverkehre-start-deutschland-gmbh-start-niedersachsen-mitte,RB 77,RS
+re-78,eurobahn,RE 78,R2
+re-82,eurobahn,RE 82,R2
+nwb-rb84,nordwestbahn,RB 84,N2
+nwb-rb85,nordwestbahn,RB 85,N2
+rb-89,eurobahn,RB 89,R2
+hlb-rb90,hlb-hessenbahn-gmbh,RB 90,K4
+via-rb91,vias-rail-gmbh,RB 91,R4
+hlb-rb91,hlb-hessenbahn-gmbh,RB 91,K4
+hlb-rb92,hlb-hessenbahn-gmbh,RB 92,K4
+hlb-rb93,hlb-hessenbahn-gmbh,RB 93,K4
+hlb-rb95,hlb-hessenbahn-gmbh,RB 95,K4
+hlb-rb96,hlb-hessenbahn-gmbh,RB 96,K4
+hlb-re99,hlb-hessenbahn-gmbh,RE 99,K4
+rb23,oberpfalzbahn-die-landerbahn-gmbh-dlb,RB 23,09
+rb27,oberpfalzbahn-die-landerbahn-gmbh-dlb,RB 27,09
+rb28,oberpfalzbahn-die-landerbahn-gmbh-dlb,RB 28,09
+rb29,oberpfalzbahn-die-landerbahn-gmbh-dlb,RB 29,09
+rb-13,ostdeutsche-eisenbahn-gmbh,RB13,OW
+rb-14,ostdeutsche-eisenbahn-gmbh,RB14,OW
+rb-15,ostdeutsche-eisenbahn-gmbh,RB15,OW
+rb-17,ostdeutsche-eisenbahn-gmbh,RB17,OW
+rb-18,ostdeutsche-eisenbahn-gmbh,RB18,OW
+rb-19,ostdeutsche-eisenbahn-gmbh,RB19,OW
+rb-33,ostdeutsche-eisenbahn-gmbh,RB33,OW
+rb-37,ostdeutsche-eisenbahn-gmbh,RB37,OW
+rb-46,ostdeutsche-eisenbahn-gmbh,RB46,OW
+rb-51,ostdeutsche-eisenbahn-gmbh,RB51,OW
+rb-64,ostdeutsche-eisenbahn-gmbh,RB64,OW
+rb-65,ostdeutsche-eisenbahn-gmbh,RB65,OW
+re-1,ostdeutsche-eisenbahn-gmbh,RE1,OW
+re-8,ostdeutsche-eisenbahn-gmbh,RE8,OW
+re-9,ostdeutsche-eisenbahn-gmbh,RE9,OW
+re-10,ostdeutsche-eisenbahn-gmbh,RE10,OW
+r-91,polregio,RB91,51
+swe-rs3,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 3,S6
+swe-rs5,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 5,S6
+swe-rs51,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 51,S6
+re-6,schweizerische-bundesbahnen,RE 6,85
+re-33,schweizerische-bundesbahnen,RE 33,85
+re-37,schweizerische-bundesbahnen,RE 37,85
+re-48,schweizerische-bundesbahnen,RE 48,85
+stn-rb12,regionalverkehre-start-deutschland-gmbh-start-taunus,RB12,RS
+stn-rb15,regionalverkehre-start-deutschland-gmbh-start-taunus,RB15,RS
+r-3,osterreichische-bundesbahnen,R3,81
+r-9,osterreichische-bundesbahnen,R9,81
+r-21,osterreichische-bundesbahnen,R21,81
+rex-21,osterreichische-bundesbahnen,REX21,81
+,salzburger-lokalbahnen,R33,81
+re-6,sweg-bahn-stuttgart-gmbh,RE 6,SBS
+re-10a,sweg-bahn-stuttgart-gmbh,RE 10a,SBS
+re-10b,sweg-bahn-stuttgart-gmbh,RE 10b,SBS
+re-71,sweg-bahn-stuttgart-gmbh,RE 71,SBS
+mex-12,sweg-bahn-stuttgart-gmbh,MEX 12,SBS
+mex-17a,sweg-bahn-stuttgart-gmbh,MEX 17a,SBS
+mex-17c,sweg-bahn-stuttgart-gmbh,MEX 17c,SBS
+mex-18,sweg-bahn-stuttgart-gmbh,MEX 18,SBS
+rb-17a,sweg-bahn-stuttgart-gmbh,RB 17a,SBS
+rb-17c,sweg-bahn-stuttgart-gmbh,RB 17c,SBS
+rb-18,sweg-bahn-stuttgart-gmbh,RB 18,SBS
+re-18,sweg-bahn-stuttgart-gmbh,RE 18,SBS
+rb-10a,sweg-bahn-stuttgart-gmbh,RB 10a,SBS
+swe-rb42,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 42,S6
+swerb42a,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 42a,S6
+swe-rb43,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 43,s6
+swerb43a,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 43a,s6
+swerb59a,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 59a,s6
+swe-rb66,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 66,s6
+swe-rb67,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 67,s6
+swe-rb68,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 68,s6
+swe-rb69,sweg-sudwestdeutsche-landesverkehrs-gmbh,RB 69,s6
+swe-rs1,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 1,S6
+swe-rs11,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 11,S6
+swe-rs12,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 12,S6
+swe-rs2,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 2,S6
+swe-rs4,sweg-sudwestdeutsche-landesverkehrs-gmbh,RS 4,S6
+tl-l2,trilex-die-landerbahn-gmbh-dlb,L2,LD
+tl-l24,trilex-die-landerbahn-gmbh-dlb,L24,LD
+tl-l4,trilex-die-landerbahn-gmbh-dlb,L4,LD
+tl-l7,trilex-die-landerbahn-gmbh-dlb,L7,LD
+tl-rb60,trilex-die-landerbahn-gmbh-dlb,RB60,LD
+tl-rb61,trilex-die-landerbahn-gmbh-dlb,RB61,LD
+tlx-re1,trilex-express-die-landerbahn-gmbh-dlb,RE1,LD
+tlx-re2,trilex-express-die-landerbahn-gmbh-dlb,RE2,LD
+tl-t9,trilex-die-landerbahn-gmbh-dlb,T9,LD
+vbg-rb1,vogtlandbahn-die-landerbahn-gmbh-dlb,RB 1,RD
+vbg-rb2,vogtlandbahn-die-landerbahn-gmbh-dlb,RB 2,RD
+vbg-rb4,vogtlandbahn-die-landerbahn-gmbh-dlb,RB 4,RD
+vbg-rb5,vogtlandbahn-die-landerbahn-gmbh-dlb,RB 5,RD
+via-rb10,vias-gmbh,RB10,R4
+re-3,vlexx,RE3,V6
+re-17,vlexx,RE17,V6
+weg-rb46,wurttembergische-eisenbahn-gesellschaft-mbh,RB 46,W7
+weg-rb47,wurttembergische-eisenbahn-gesellschaft-mbh,RB 47,W7
+weg-rb61,wurttembergische-eisenbahn-gesellschaft-mbh,RB 61,W7
+weg-rb65,wurttembergische-eisenbahn-gesellschaft-mbh,RB 65,W7
+cjx-1,osterreichische-bundesbahnen,cjx1,81
+r-1,osterreichische-bundesbahnen,R1,81
+r-2,osterreichische-bundesbahnen,R2,81
+r-5,osterreichische-bundesbahnen,R5,81
+rb35,waldbahn-die-landerbahn-gmbh-dlb,RB 35,W9
+rb36,waldbahn-die-landerbahn-gmbh-dlb,RB 36,W9
+rb37,waldbahn-die-landerbahn-gmbh-dlb,RB 37,W9
+rb38,waldbahn-die-landerbahn-gmbh-dlb,RB 38,W9
+wfb-re15,westfalenbahn,RE 15,W3
+wfb-re60,westfalenbahn,RE 60,W3
+wfb-re70,westfalenbahn,RE 70,W3
