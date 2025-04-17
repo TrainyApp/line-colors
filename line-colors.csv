@@ -323,7 +323,7 @@ hvv-had,73,,6-hvvhad-73,#009bb6,#ffffff,,trapezoid,,
 hvv-had,75,,6-hvvhad-75,#009bb6,#ffffff,,trapezoid,,
 hvv-hha,U 1,,7-hvv001-1,#0072bc,#ffffff,,rectangle,,
 hvv-hha,U 2,,7-hvv001-2,#ee1d23,#ffffff,,rectangle,,
-hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,,rectangle,,#000000
+hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,#000000,rectangle,,#000000
 hvv-hha,U 4,,7-hvv001-4,#00aaad,#ffffff,,rectangle,,
 hvv-hha,5,,5-hvvhha-5,#eb4630,#ffffff,,hexagon,,
 hvv-hha,6,,5-hvvhha-6,#18257b,#ffffff,,hexagon,,
