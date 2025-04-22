@@ -13,6 +13,14 @@ def parse_special_lines(path: str) -> dict[(str, str), str]:
             out[special_line["hafasOperatorCode"], special_line["hafasLineId"]] = special_line["risOperatorCode"]
     return out
 
+
+def parse_stroke_colors(path: str) -> dict[(str, str), str]:
+    out = {}
+    for special_line in read_csv(path):
+        if 'strokeColor' in special_line.keys():
+            out[special_line["hafasOperatorCode"], special_line["hafasLineId"]] = special_line["strokeColor"]
+    return out
+
 def create_map(array: list[dict[str, str]]) -> dict[str, str]:
     out = {}
     for item in array:
