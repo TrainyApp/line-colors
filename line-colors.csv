@@ -1,4 +1,4 @@
-shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid, delfiAgencyID, delfiAgencyName
+shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid, delfiAgencyID, delfiAgencyName,borderColor
 agilis,RB 15,agilis,ag-rb15,#24b27d,#ffffff,,rectangle,Q130542089,10838,agilis
 agilis,RB 17,agilis,ag-rb17,#90bf26,#ffffff,,rectangle,Q130542097,10838,agilis
 agilis,RB 18,agilis,ag-rb18,#ff9999,#ffffff,,rectangle,Q104149638,10838,agilis
@@ -339,7 +339,7 @@ hvv-had,73,,6-hvvhad-73,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,75,,6-hvvhad-75,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-hha,U 1,,,#0072bc,#ffffff,,rectangle,Q248623,15141,Hochbahn U-Bahn
 hvv-hha,U 2,,,#ee1d23,#ffffff,,rectangle,Q275451,15141,Hochbahn U-Bahn
-hvv-hha,U 3,,,#ffdc01,#ffffff,,rectangle,Q781351,15141,Hochbahn U-Bahn
+hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,#000000,rectangle,,15141,Hochbahn U-Bahn,#000000
 hvv-hha,U 4,,,#00aaad,#ffffff,,rectangle,Q209739,15141,Hochbahn U-Bahn
 hvv-hha,5,,5-hvvhha-5,#eb4630,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,6,,5-hvvhha-6,#18257b,#ffffff,,hexagon,,15140,Hochbahn Bus
@@ -676,6 +676,8 @@ mvv-mvg-ubahn,U3,,7-swm001-3,#ec6725,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U4,,7-swm001-4,#00a984,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U5,,7-swm001-5,#bc7a00,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U6,,7-swm001-6,#0065ae,#ffffff,,rectangle,,8118,U-Bahn München
+mvv-mvg-ubahn,U7,,7-swm001-7,"#51832B,#C3022D",#ffffff,,diagonal1,,8118,U-Bahn München
+mvv-mvg-ubahn,U8,,7-swm001-8,"#C3022D,#ED6720",#ffffff,,diagonal1,,8118,U-Bahn München
 mvv-regional-bus,501,,5-mvvrbu-501,#1b2645,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,511,,5-mvvrbu-511,#979032,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,601,,5-mvvrbu-601,#702e1a,#ffffff,,rectangle,,14943,Bus München
@@ -1398,17 +1400,17 @@ stadtlinie-limburg,LM-25,,lm-25,#e05200,#ffffff,,rectangle-rounded-corner,,8733,
 stadtlinie-limburg,LM-26,,lm-26,#613fa6,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
-svv-brb,S3,bayerische-regiobahn,4-l8-s3,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
-svv-brb,S4,bayerische-regiobahn,4-l8-s4,#9764ac,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
-svv-oebb,R3,osterreichische-bundesbahnen,r-3,#99be41,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-oebb,R9,osterreichische-bundesbahnen,r-9,#e4be3d,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-oebb,R21,osterreichische-bundesbahnen,r-21,#44bccf,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-oebb,REX21,osterreichische-bundesbahnen,rex-21,#ff8124,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1451275-5318936,#0077bd,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#3ab048,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
-svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner,,,
-svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#c22438,#ffffff,,rectangle-rounded-corner,,,
-svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#c22438,#ffffff,,rectangle-rounded-corner,,,
+svv-brb,S3,bayerische-regiobahn,at:svv:REX3:,#3ab048,#ffffff,,rectangle-rounded-corner,
+svv-brb,S4,bayerische-regiobahn,at:svv:S4:,#9764ac,#ffffff,,rectangle-rounded-corner,
+svv-oebb,R3,osterreichische-bundesbahnen,r-3,#99be41,#ffffff,,rectangle-rounded-corner,
+svv-oebb,R9,osterreichische-bundesbahnen,r-9,#e4be3d,#ffffff,,rectangle-rounded-corner,
+svv-oebb,R21,osterreichische-bundesbahnen,r-21,#44bccf,#ffffff,,rectangle-rounded-corner,
+svv-oebb,REX21,osterreichische-bundesbahnen,rex-21,#ff8124,#ffffff,,rectangle-rounded-corner,
+svv-oebb,S2,osterreichische-bundesbahnen,at:svv:S2:,#0077bd,#ffffff,,rectangle-rounded-corner,
+svv-oebb,S3,osterreichische-bundesbahnen,at:svv:REX3:,#3ab048,#ffffff,,rectangle-rounded-corner,
+svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner,
+svv-slb,S1,salzburger-lokalbahnen,at:svv:S1:,#c22438,#ffffff,,rectangle-rounded-corner,
+svv-slb,S11,salzburger-lokalbahnen,svv-42-53,#c22438,#ffffff,,rectangle-rounded-corner,
 sweg-stuttgart,RE 6,sweg-bahn-stuttgart-gmbh,re-6,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
 sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,10a,#014f9f,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
 sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,10b,#014f9f,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
@@ -1749,22 +1751,23 @@ vmt-jena-tram,1,,8-rmtjnv-1,#d8592b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr 
 vmt-jena-tram,2,,8-rmtjnv-2,#f0ba46,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,4,,8-rmtjnv-4,#c92d24,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,5,,8-rmtjnv-5,#633271,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
-vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S4,osterreichische-bundesbahnen,4-81-4-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S7,osterreichische-bundesbahnen,4-81-7,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S40,osterreichische-bundesbahnen,4-81-40,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S45,osterreichische-bundesbahnen,4-81-45,#c8d200,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S50,osterreichische-bundesbahnen,4-81-50,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S60,osterreichische-bundesbahnen,4-81-60,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-oebb,S80,osterreichische-bundesbahnen,4-81-80,#0097d5,#ffffff,,rectangle-rounded-corner,,,
-vor-wl,18,wiener-linien,8-810009-18,#c00808,#ffffff,,rectangle,,,
-vor-wl,U1,wiener-linien,7-810009-1,#e3000f,#ffffff,,rectangle,,,
-vor-wl,U2,wiener-linien,7-810009-2,#a862a4,#ffffff,,rectangle,,,
-vor-wl,U3,wiener-linien,7-810009-3,#ef7c00,#ffffff,,rectangle,,,
-vor-wl,U4,wiener-linien,7-810009-4,#00963f,#ffffff,,rectangle,,,
-vor-wl,U6,wiener-linien,7-810009-6,#9d6830,#ffffff,,rectangle,,,
+
+vor-oebb,S1,osterreichische-bundesbahnen,at:vor:s1:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S2,osterreichische-bundesbahnen,at:vor:s2:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S3,osterreichische-bundesbahnen,at:vor:s3:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S4,osterreichische-bundesbahnen,at:vor:s4:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S7,osterreichische-bundesbahnen,at:vor:s7:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S40,osterreichische-bundesbahnen,at:vor:s40:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S45,osterreichische-bundesbahnen,at:vor:s45:,#c8d200,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S50,osterreichische-bundesbahnen,at:vor:s50:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S60,osterreichische-bundesbahnen,at:vor:s60:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-oebb,S80,osterreichische-bundesbahnen,at:vor:s80:,#0097d5,#ffffff,,rectangle-rounded-corner,
+vor-wl,18,wiener-linien,8-810009-18,#c00808,#ffffff,,rectangle,
+vor-wl,U1,wiener-linien,vor-21-u1,#e3000f,#ffffff,,rectangle,
+vor-wl,U2,wiener-linien,vor-21-u2,#a862a4,#ffffff,,rectangle,
+vor-wl,U3,wiener-linien,vor-21-u3,#ef7c00,#ffffff,,rectangle,
+vor-wl,U4,wiener-linien,vor-21-u4,#00963f,#ffffff,,rectangle,
+vor-wl,U6,wiener-linien,vor-21-u6,#9d6830,#ffffff,,rectangle,
 vos-osnabrueck,10,,5-webos1-10,#8c61a0,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,12,,5-web-os-12,#2c247d,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,13,,5-webvos-13,#469cde,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
