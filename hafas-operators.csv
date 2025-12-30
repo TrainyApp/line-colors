@@ -141,6 +141,7 @@ db-regio-ag-mitte-suwex,DB Regio AG Mitte SÜWEX
 db-regio-ag-nord,DB Regio AG Nord
 db-regio-ag-nordost,DB Regio AG Nordost
 db-regio-ag-nrw,DB Regio AG NRW
+db-regio-stuttgart-gmbh,DB Regio Stuttgart GmbH
 db-regio-ag-s-bahn-munchen,DB Regio AG S-Bahn München
 db-regio-ag-s-bahn-rhein-main,DB Regio AG S-Bahn Rhein-Main
 db-regio-ag-s-bahn-stuttgart,DB Regio AG S-Bahn Stuttgart
@@ -535,3 +536,7 @@ zurichsee,Zürichsee
 zweckverband-fur-den-nahverkehrsraum-leipzig, Zweckverband für den Nahverkehrsraum Leipzig
 schweizerische-bundesbahnen,Schweizerische Bundesbahnen
 rmvrev,RhönEnergie Fulda
+db-regio-ag-mitte-hessen,DB Regio AG Mitte
+db-regio-ag-mitte-s-bahn-vrn,DB Regio AG Mitte
+nordwestbahn-sbahn,NordWestBahn
+db-regio-ag-bayern-sbahn-nurnberg,DB Regio AG Bayern

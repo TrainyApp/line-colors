@@ -4,7 +4,7 @@ import re
 from csv_utils import read_csv, create_map, parse_special_lines, parse_stroke_colors
 from fetch_administrations import fetch_administration_map
 
-standalone_line_mapper = re.compile(r"rb|re|mex-\\d+", re.IGNORECASE)
+full_line_id = re.compile(r"[0-9]-.*", re.IGNORECASE)
 
 lines = read_csv("line-colors.csv")
 operators = create_map(read_csv("hafas-operators.csv"))
@@ -16,7 +16,7 @@ administrations = fetch_administration_map()
 relevant_operators = (
     operator_name for row in lines if
     (operator_name := row["hafasOperatorCode"]) and
-    re.match(standalone_line_mapper, row["hafasLineId"])
+    not re.match(full_line_id, row["hafasLineId"])
 )
 
 relevant_operators_with_name = {}
