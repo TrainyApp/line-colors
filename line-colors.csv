@@ -1353,9 +1353,9 @@ nvv-kassel-tram,5,,,#7e5ca3,#ffffff,,rectangle,,9142,KVG Tram
 nvv-kassel-tram,6,,,#894e37,#ffffff,,rectangle,,9142,KVG Tram
 nvv-kassel-tram,7,,,#fbb900,#ffffff,,rectangle,,9142,KVG Tram
 nvv-kassel-tram,8,,,#00a4df,#ffffff,,rectangle,,9142,KVG Tram
-nvv-rt,RT1,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
-nvv-rt,RT4,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
-nvv-rt,RT5,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT1,nvv-rt,rt1,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT4,nvv-rt,rt4,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT5,nvv-rt,rt5,#e30513,#ffffff,,rectangle,,9142,KVG Tram
 oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb23,#6cc3d9,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb27,#ffb200,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb28,#90bf26,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
