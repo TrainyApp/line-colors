@@ -205,7 +205,7 @@ db-regio-mitte,RB82,db-regio-ag-mitte,rb82,#8bc640,#ffffff,,rectangle-rounded-co
 db-regio-mitte,RB83,db-regio-ag-mitte,rb83,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB84,db-regio-ag-mitte,rb84,#8bc640,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB87,db-regio-ag-mitte,rb87,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-nordost,FEX,db-regio-ag-nordost,refex,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
+db-regio-nordost,FEX,db-regio-ag-nordost,fex,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
 db-regio-nordost,RB10,db-regio-ag-nordost,rb10,#66aa22,#ffffff,,rectangle,Q15195695,10434,DB Regio AG Nordost
 db-regio-nordost,RB11,db-regio-ag-nordost,rb11,#ed1c24,#ffffff,,rectangle,,10434,DB Regio AG Nordost
 db-regio-nordost,RB12,db-regio-ag-nordost,rb12,#399fdf,#ffffff,,rectangle,Q42383940,10434,DB Regio AG Nordost
