@@ -1,2 +1,5 @@
 vendor/
 .idea/
+
+# Generated output
+ris-line-colors.csv
