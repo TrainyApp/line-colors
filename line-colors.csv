@@ -1165,7 +1165,7 @@ nah-sh,RB 75,nordbahn,re75,#ba731a,#ffffff,,rectangle,,10919,Nordbahn Eisenbahng
 nah-sh,RB 76,erixx,rb76,#ffdc00,#000000,,rectangle,,10966,erixx
 nah-sh,RE 8,db-regio-ag-nord,re8,#a3d9f0,#000000,,rectangle,,10435,DB Regio AG Nord
 nah-sh,RE 80,db-regio-ag-nord,re80,#d9338a,#ffffff,,rectangle,,10435,DB Regio AG Nord
-nah-sh,RB 81,db-regio-ag-nord,re81,#798e0e,#ffffff,,rectangle,,10435,DB Regio AG Nord
+nah-sh,RB 81,db-regio-ag-nord,rb81,#798e0e,#ffffff,,rectangle,,10435,DB Regio AG Nord
 nah-sh,RB 82,nordbahn,rb82,#9c9c9c,#ffffff,,rectangle,,10919,Nordbahn Eisenbahngesellschaft
 nah-sh,RE 83,erixx,re83,#2d53a0,#ffffff,,rectangle,,10966,erixx
 nah-sh,RB 84,erixx,rb84,#e4afd2,#000000,,rectangle,,10966,erixx
@@ -1360,22 +1360,24 @@ oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb23,#6cc3d9,#ffff
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb27,#ffb200,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb28,#90bf26,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb29,#ff6600,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
-odeg,RB10,ostdeutsche-eisenbahn-gmbh,rb10,#5cb445,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB13,ostdeutsche-eisenbahn-gmbh,rb13,#3f4545,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB14,ostdeutsche-eisenbahn-gmbh,rb14,#196e76,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB15,ostdeutsche-eisenbahn-gmbh,rb15,#00a998,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB18,ostdeutsche-eisenbahn-gmbh,rb18,#399fdf,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB19,ostdeutsche-eisenbahn-gmbh,rb19,#f46717,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb33,#a5027d,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB37,ostdeutsche-eisenbahn-gmbh,rb37,#ad5937,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB46,ostdeutsche-eisenbahn-gmbh,rb46,#da6ba2,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB51,ostdeutsche-eisenbahn-gmbh,rb51,#da6ba2,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB64,ostdeutsche-eisenbahn-gmbh,rb64,#006552,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB65,ostdeutsche-eisenbahn-gmbh,rb65,#0066ad,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RE1,ostdeutsche-eisenbahn-gmbh,re1,#e2001a,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RE3,ostdeutsche-eisenbahn-gmbh,re3,#f37a22,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RE8,ostdeutsche-eisenbahn-gmbh,re8,#775fb0,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RE9,ostdeutsche-eisenbahn-gmbh,re9,#b51d48,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB10,ostdeutsche-eisenbahn-gmbh,rb10,#60bb46,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB13,ostdeutsche-eisenbahn-gmbh,rb13,#58585a,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB14,ostdeutsche-eisenbahn-gmbh,rb14,#006f74,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB15,ostdeutsche-eisenbahn-gmbh,rb15,#009686,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB16,ostdeutsche-eisenbahn-gmbh,rb16,#816da6,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB17,ostdeutsche-eisenbahn-gmbh,rb17,#dd6ba6,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB18,ostdeutsche-eisenbahn-gmbh,rb18,#009bd9,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB19,ostdeutsche-eisenbahn-gmbh,rb19,#f4a404,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb33,#a3238e,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB37,ostdeutsche-eisenbahn-gmbh,rb37,#a6643f,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB46,ostdeutsche-eisenbahn-gmbh,rb46,#cd67a0,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB51,ostdeutsche-eisenbahn-gmbh,rb51,#cd67a0,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB64,ostdeutsche-eisenbahn-gmbh,rb64,#00b200,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RB65,ostdeutsche-eisenbahn-gmbh,rb65,#006aaf,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE1,ostdeutsche-eisenbahn-gmbh,re1,#e2001a,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE3,ostdeutsche-eisenbahn-gmbh,re3,#f37a22,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE8,ostdeutsche-eisenbahn-gmbh,re8,#775fb0,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE9,ostdeutsche-eisenbahn-gmbh,re9,#b51d48,#ffffff,,rectangle-rounded-corner,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE50,ostdeutsche-eisenbahn-gmbh,re50,#0087cb,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 ooevv-linz-linien,3,linz-linien-ag-strassenbahn-stadt-linz,8-810031-3,#a3238e,#ffffff,,rectangle,,,
 ooevv-linz-linien,4,linz-linien-ag-strassenbahn-stadt-linz,8-810031-4,#c40352,#ffffff,,rectangle,,,
