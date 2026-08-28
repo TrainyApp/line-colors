@@ -6,6 +6,13 @@ def read_csv(path: str) -> list[dict]:
     return list(csv.DictReader(line_text.splitlines()))
 
 
+def write_csv(path: str, fieldnames: list[str], rows: list[dict]) -> None:
+    with Path(f'../{path}').open('w', encoding='utf-8', newline="\n") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
 def parse_special_lines(path: str) -> dict[(str, str), str]:
     out = {}
     for special_line in read_csv(path):
