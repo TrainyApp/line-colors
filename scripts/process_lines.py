@@ -50,6 +50,7 @@ lines = read_csv("line-colors.csv")
 columns = list(lines[0].keys())
 
 merge_lines(lines, build_country_lines("line-colors-AT.csv", "hafas-line-ids-AT.csv", columns))
+merge_lines(lines, build_country_lines("line-colors-LU.csv", "hafas-line-ids-LU.csv", columns))
 
 operators = create_map(read_csv("hafas-operators.csv"))
 manual_operators = create_map(read_csv("ris-operators.csv"))
