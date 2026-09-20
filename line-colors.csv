@@ -213,7 +213,6 @@ bodo-sonstige,449,,,#828fc6,#ffffff,,rectangle,,7545,Sonstige VU
 bodo-sonstige,626,,,#fbd600,#000000,,rectangle,,15172,Bürgermobil Meckenbeuren
 bodo-sonstige,670,,,#c48177,#ffffff,,rectangle,,7545,Sonstige VU
 bodo-sonstige,696,,,#f8afac,#000000,,rectangle,,7545,Sonstige VU
-bodo-sonstige,697 emma Salem,,,#006db0,#ffffff,,rectangle,,7545,Sonstige VU
 bodo-stadtverkehr-fhafen,1,,,#44b389,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
 bodo-stadtverkehr-fhafen,2,,,#fcbe00,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
 bodo-stadtverkehr-fhafen,3,,,#e30614,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
@@ -1884,6 +1883,8 @@ mvv-mvg-ubahn,U3,,7-swm001-3,#ec6725,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U4,,7-swm001-4,#00a984,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U5,,7-swm001-5,#bc7a00,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U6,,7-swm001-6,#0065ae,#ffffff,,rectangle,,8118,U-Bahn München
+mvv-mvg-ubahn,U7,,7-swm001-7,"#51832B,#C3022D",#ffffff,,diagonal1,,8118,U-Bahn München
+mvv-mvg-ubahn,U8,,7-swm001-8,"#C3022D,#ED6720",#ffffff,,diagonal1,,8118,U-Bahn München
 mvv-regional-bus,210,,,#00531e,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,211,,,#bb0f27,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,211V,,,#bb0f27,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -3708,14 +3709,6 @@ saarbahn,163,,5-vgssbb-163,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,164,,5-vgssbb-164,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,165,,5-vgssbb-165,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,168,,5-vgssbb-168,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
-sev-nuernberg-regensburg,RB3,,,#e00984,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,RB17,,,#59ac29,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,RB51,,,#b98dc6,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,RE3,,,#ea1e26,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,RE18,,,#2b6e33,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,RE22,,,#f68617,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
-sev-nuernberg-regensburg,RE50,,,#4d1d74,#ffffff,,pill,,15193,deu.mobil GmbH
-sev-nuernberg-regensburg,S3,,,#4a8e21,#ffffff,,pill,,15193,deu.mobil GmbH
 stadtlinie-limburg,LM-1,,lm-1,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-2,,lm-2,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-3,,lm-3,#00e0d9,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
@@ -4068,38 +4061,6 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
-vdl,T1,,,#622e93,#ffffff,,rectangle,,111,Luxtram
-vdl,2,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,3,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,4,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,5,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,6,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,7,,,#c5b2d6,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,8,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,9,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,10,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,11,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,12,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,13,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,14,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,15,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,16,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,17,,,#ea9500,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,18,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,19,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,20,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,21,,,#dd198c,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,22,,,#4eb6d0,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,23,,,#eba4c8,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,24,,,#eba4c8,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,25,,,#eba4c8,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,26,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,27,,,#c5b2d6,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,29,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
-vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vgc-daeuble,668,,,#d0ce11,#231f20,,rectangle,,7593,Calw VPC
 vgc-daeuble,770,,,#ec008c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-eberhardt,715,,,#892b81,#ffffff,,rectangle,,14947,Linienbündel Nordwest
@@ -6193,10 +6154,6 @@ vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectang
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,14827,DB-Zug  (nicht VVS)1
-vvs-db-sbs-stammstreckensperrung,RESB,,,#9c6c9c,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
-vvs-db-sbs-stammstreckensperrung,SEV1,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
-vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
-vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,13221,"Bus SEV, nur Abellio, DB Regio, Go-Ahead"
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
