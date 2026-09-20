@@ -6,7 +6,8 @@ from fetch_administrations import fetch_administration_map
 full_line_id = re.compile(r"[0-9]-.*", re.IGNORECASE)
 
 
-def build_country_lines(colors_path: str, line_ids_path: str, columns: list[str]) -> list[dict[str, str]]:
+def build_lines(colors_path: str, line_ids_path: str, columns: list[str],
+                agency_id_column: str, agency_name_column: str) -> list[dict[str, str]]:
     line_ids = {
         (row["shortOperatorName"], row["lineName"]): row["hafasLineId"]
         for row in read_csv(line_ids_path)
@@ -20,10 +21,14 @@ def build_country_lines(colors_path: str, line_ids_path: str, columns: list[str]
             continue
         line = {column: color.get(column, "") for column in columns}
         line["hafasLineId"] = line_ids[line_key]
-        line["delfiAgencyID"] = color["GTFSAgencyID"]
-        line["delfiAgencyName"] = color["GTFSAgencyName"]
+        line["delfiAgencyID"] = color[agency_id_column]
+        line["delfiAgencyName"] = color[agency_name_column]
         out.append(line)
     return out
+
+
+def build_country_lines(colors_path: str, line_ids_path: str, columns: list[str]) -> list[dict[str, str]]:
+    return build_lines(colors_path, line_ids_path, columns, "GTFSAgencyID", "GTFSAgencyName")
 
 
 def insertion_index(lines: list[dict[str, str]], operator: str) -> int:
@@ -46,8 +51,9 @@ def merge_lines(lines: list[dict[str, str]], new_lines: list[dict[str, str]]) ->
         lines.insert(insertion_index(lines, new_line["shortOperatorName"]), new_line)
 
 
-lines = read_csv("line-colors.csv")
-columns = list(lines[0].keys())
+columns = list(read_csv("line-colors.csv")[0].keys())
+
+lines = build_lines("line-colors.csv", "ris-line-ids.csv", columns, "delfiAgencyID", "delfiAgencyName")
 
 merge_lines(lines, build_country_lines("line-colors-AT.csv", "hafas-line-ids-AT.csv", columns))
 merge_lines(lines, build_country_lines("line-colors-LU.csv", "hafas-line-ids-LU.csv", columns))
