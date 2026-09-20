@@ -295,20 +295,34 @@ ceske-drahy,RE 25,ex352
 cfl,RE 11,re11
 cfl,RB 83,rb83
 cfl,RB 87,rb87
-db-fernverkehr-ag,RE 87,re87
+db-fernverkehr-ag,IC 87,ic87
 db-regio-ag-baden-wurttemberg,RE 2,re2
 db-regio-ag-baden-wurttemberg,RE 3,re3
 db-regio-ag-baden-wurttemberg,RB 3,rb3
 db-regio-ag-baden-wurttemberg,RE 4,re4
 db-regio-ag-baden-wurttemberg,RE 5,re5
 db-regio-ag-baden-wurttemberg,RE 6,re6
-db-regio-ag-baden-wurttemberg,RB 6,rb6
+db-regio-ag-baden-wurttemberg,RE 6a,re6a
+db-regio-ag-baden-wurttemberg,RE 6b,re6b
 db-regio-ag-baden-wurttemberg,RE 7,re7
+db-regio-ag-baden-wurttemberg,RE 10a,re10a
+db-regio-ag-baden-wurttemberg,RE 10b,re10b
 db-regio-ag-baden-wurttemberg,RE 14a,re14a
 db-regio-ag-baden-wurttemberg,RB 14a,rb14a
 db-regio-ag-baden-wurttemberg,RE 14b,re14b
 db-regio-ag-baden-wurttemberg,RB 14b,rb14b
+db-regio-ag-baden-wurttemberg,RE 17,re17
+db-regio-ag-baden-wurttemberg,RE 18,re18
+db-regio-ag-baden-wurttemberg,RE 71,re71
+db-regio-ag-baden-wurttemberg,MEX 12,mex12
+db-regio-ag-baden-wurttemberg,MEX 17,mex17
+db-regio-ag-baden-wurttemberg,MEX 17a,mex17a
+db-regio-ag-baden-wurttemberg,MEX 17c,mex17c
+db-regio-ag-baden-wurttemberg,MEX 18,mex18
 db-regio-ag-baden-wurttemberg,MEX 19,mex19
+db-regio-ag-baden-wurttemberg,RB 10a,rb10a
+db-regio-ag-baden-wurttemberg,RB 17,rb17
+db-regio-ag-baden-wurttemberg,RB 18,rb18
 db-regio-ag-baden-wurttemberg,RB 26,rb26
 db-regio-ag-baden-wurttemberg,RB 27,rb27
 db-regio-ag-baden-wurttemberg,RB 28,rb28
@@ -325,6 +339,7 @@ db-regio-ag-baden-wurttemberg,RE 55,re55
 db-regio-ag-baden-wurttemberg,RB 55,rb55
 db-regio-ag-baden-wurttemberg,RB 63,rb63
 db-regio-ag-baden-wurttemberg,RB 68,rb68
+db-regio-ag-baden-wurttemberg,RB 71,rb71
 db-regio-ag-baden-wurttemberg,RB 72,rb72
 db-regio-ag-baden-wurttemberg,RB 74,rb74
 db-regio-ag-baden-wurttemberg,RB 91,rb91
@@ -400,6 +415,8 @@ db-regio-mitte,RE4,re4
 db-regio-mitte,RE6,re6
 db-regio-mitte,RE11,re11
 db-regio-mitte,RE14,re14
+db-regio-mitte,RE15,re15
+db-regio-mitte,RE17,re17
 db-regio-mitte,RE16,re16
 db-regio-mitte,RE18,re18
 db-regio-mitte,RE19,re19
@@ -407,7 +424,19 @@ db-regio-mitte,RE20,re20
 db-regio-mitte,RE25,re25
 db-regio-mitte,RB22,rb22
 db-regio-mitte,RB23,rb23
+db-regio-mitte,RB26,rb26
 db-regio-mitte,RE30,re30
+db-regio-mitte,RB33,rb33
+db-regio-mitte,RB35,rb35
+db-regio-mitte,RB38,rb38
+db-regio-mitte,RB48,rb48
+db-regio-mitte,RB56,rb56
+db-regio-mitte,RB61,rb61
+db-regio-mitte,RB62,rb62
+db-regio-mitte,RB63,rb63
+db-regio-mitte,RB69,rb69
+db-regio-mitte,RB73,rb73
+db-regio-mitte,RB79,rb79
 db-regio-mitte,RB34,rb34
 db-regio-mitte,RE40,re40
 db-regio-mitte,RB41,rb41
@@ -492,20 +521,6 @@ db-regio-nordost,S1,s1
 db-regio-nordost,S2,s2
 db-regio-nordost,S2X,s2x
 db-regio-nordost,S3,s3
-db-regio-stuttgart,RE 6,re6
-db-regio-stuttgart,RE 10a,re10a
-db-regio-stuttgart,RE 10b,re10b
-db-regio-stuttgart,RE 18,re18
-db-regio-stuttgart,RE 71,re71
-db-regio-stuttgart,MEX 12,mex12
-db-regio-stuttgart,MEX 17,mex17
-db-regio-stuttgart,MEX 17a,mex17a
-db-regio-stuttgart,MEX 17c,mex17c
-db-regio-stuttgart,MEX 18,mex18
-db-regio-stuttgart,RB 10a,rb10a
-db-regio-stuttgart,RB 17,rb17
-db-regio-stuttgart,RB 18,rb18
-db-regio-stuttgart,RB 71,rb71
 db-regio-sudost,RB 51,rb51
 db-regio-sudost,RE 7,re7
 db-regio-sudost,RE 13,re13
@@ -521,6 +536,14 @@ db-regio-sudost,S5X,s5x
 db-regio-sudost,S6,s6
 db-regio-sudost,S8,s8
 db-regio-sudost,S9,s9
+db-regio-sudost,S11,s11
+db-regionetz-kurhessenbahn,RB4,rb4
+db-regionetz-kurhessenbahn,RB38,rb38
+db-regionetz-kurhessenbahn,RB39,rb39
+db-regionetz-kurhessenbahn,RE39,re39
+db-regionetz-kurhessenbahn,RB94,rb94
+db-regionetz-kurhessenbahn,RB97,rb97
+db-regionetz-kurhessenbahn,RE97,re97
 db-regionetz-sudostbayernbahn,RE 4,re4
 db-regionetz-sudostbayernbahn,RB 32,rb32
 db-regionetz-sudostbayernbahn,RB 40,rb40
@@ -802,17 +825,8 @@ erixx,RB42,rb42
 erixx,RB43,rb43
 erixx,RB47,rb47
 erixx,RE10,re10
-fulda-ast,AST 12,5-rmvrev-at12
-fulda-citybus,1,5-rmvrev-1
-fulda-citybus,2,5-rmvrev-2
-fulda-citybus,3,5-rmvrev-3
-fulda-citybus,4,5-rmvrev-4
-fulda-citybus,5,5-rmvrev-5
-fulda-citybus,6,5-rmvrev-6
-fulda-citybus,7,5-rmvrev-7
-fulda-citybus,8,5-rmvrev-8
-fulda-citybus,15,5-rmvrev-15
-fulda-citybus,16,5-rmvrev-16
+roehnenergie-bus,15,5-rmvrev-15
+roehnenergie-bus,16,5-rmvrev-16
 hans,RB16,rb16
 hans,RB33,rb33
 hans,RB34,rb34
@@ -831,7 +845,9 @@ hlb,RB48,rb48
 hlb,RB49,rb49
 hlb,RB52,rb52
 hlb,RB58,rb58
+db-regio-ag-mitte,RE55,re55
 db-regio-ag-mitte,RB61,rb61
+db-regio-ag-mitte,RB87,rb87
 hlb,RB61,hlb-rb61
 hlb,RB75,rb75
 hlb,RB90,rb90
@@ -2415,6 +2431,28 @@ mvv-regional-bus,9520,5-mvvrbu-9520
 mvv-regional-bus,DGF33,5-mvvrbu-DGF33
 mvv-regional-bus,DGF34,5-mvvrbu-DGF34
 mvv-regional-bus,N272,5-mvvrbu-N272
+mvv-regional-bus,X200,5-mvvrbu-x200
+mvv-regional-bus,X201,5-mvvrbu-x201
+mvv-regional-bus,X202,5-mvvrbu-x202
+mvv-regional-bus,X203,5-mvvrbu-x203
+mvv-regional-bus,X204,5-mvvrbu-x204
+mvv-regional-bus,X205,5-mvvrbu-x205
+mvv-regional-bus,X206,5-mvvrbu-x206
+mvv-regional-bus,X208,5-mvvrbu-x208
+mvv-regional-bus,X320,5-mvvrbu-x320
+mvv-regional-bus,X380,5-mvvrbu-x380
+mvv-regional-bus,X381,5-mvvrbu-x381
+mvv-regional-bus,X660,5-mvvrbu-x660
+mvv-regional-bus,X730,5-mvvrbu-x730
+mvv-regional-bus,X731,5-mvvrbu-x731
+mvv-regional-bus,X732,5-mvvrbu-x732
+mvv-regional-bus,X733,5-mvvrbu-x733
+mvv-regional-bus,X800,5-mvvrbu-x800
+mvv-regional-bus,X850,5-mvvrbu-x850
+mvv-regional-bus,X900,5-mvvrbu-x900
+mvv-regional-bus,X910,5-mvvrbu-x910
+mvv-regional-bus,X970,5-mvvrbu-x970
+mvv-regional-bus,X990,5-mvvrbu-x990
 mvv-stadtwerke-dachau,719,5-mvvrbu-719
 mvv-stadtwerke-dachau,720,5-mvvrbu-720
 mvv-stadtwerke-dachau,722,5-mvvrbu-722
@@ -2718,6 +2756,7 @@ naldo-taxi-xxl-rt,7635,3-tub092-7635
 naldo-taxi-xxl-rt,7644,3-tub092-7644
 naldo-taxi-xxl-rt,NA 20,3-tub092-na20
 naldo-tuebus,1,5-tub009-1
+naldo-tuebus,2,5-tub009-2
 naldo-tuebus,3,5-tub009-3
 naldo-tuebus,4,5-tub009-4
 naldo-tuebus,5,5-tub009-5
@@ -2730,6 +2769,7 @@ naldo-tuebus,11,5-tub009-11
 naldo-tuebus,12,5-tub009-12
 naldo-tuebus,13,5-tub009-13
 naldo-tuebus,14,5-tub009-14
+naldo-tuebus,16,5-tub009-16
 naldo-tuebus,17,5-tub009-17
 naldo-tuebus,19,5-tub009-19
 naldo-tuebus,21,5-tub009-21
@@ -2750,6 +2790,7 @@ naldo-tuebus,N96,5-tub009-N96
 naldo-tuebus,N97,5-tub009-N97
 naldo-tuebus,N98,5-tub009-N98
 naldo-tuebus,X15,5-tub009-X15
+naldo-taxizentrale-tue,N82,5-tub097-n82
 naldo-wilhelm-lutz,201,5-tub041-201
 naldo-wilhelm-lutz,202,5-tub041-202
 naldo-wilhelm-lutz,203,5-tub041-203
@@ -3269,6 +3310,34 @@ regiobus-hannover,N62,5-webrbg-n62
 regiobus-hannover,N63,5-webrbg-n63
 regiobus-hannover,N70,5-webrbg-n70
 regiobus-hannover,N94,5-webrbg-n94
+roehnenergie-bus,AST 1,3-rmvrev-at1
+roehnenergie-bus,AST 2,3-rmvrev-at2
+roehnenergie-bus,AST 3,3-rmvrev-at3
+roehnenergie-bus,AST 4,3-rmvrev-at4
+roehnenergie-bus,AST 5,3-rmvrev-at5
+roehnenergie-bus,AST 6,3-rmvrev-at6
+roehnenergie-bus,AST 7,3-rmvrev-at7
+roehnenergie-bus,AST 8,3-rmvrev-at8
+roehnenergie-bus,AST 9,3-rmvrev-at9
+roehnenergie-bus,AST 10,3-rmvrev-at10
+roehnenergie-bus,AST 12,3-rmvrev-at12
+roehnenergie-bus,AST 12,3-rmvrev-at12
+roehnenergie-bus,AST 13,3-rmvrev-at13
+roehnenergie-bus,AST 14,3-rmvrev-at14
+roehnenergie-bus,AST 15,3-rmvrev-at15
+roehnenergie-bus,AST 16,3-rmvrev-at16
+roehnenergie-bus,AST 17,3-rmvrev-at17
+roehnenergie-bus,AST 18,3-rmvrev-at18
+roehnenergie-bus,1,5-rmvrev-1
+roehnenergie-bus,2,5-rmvrev-2
+roehnenergie-bus,3,5-rmvrev-3
+roehnenergie-bus,4,5-rmvrev-4
+roehnenergie-bus,5,5-rmvrev-5
+roehnenergie-bus,6,5-rmvrev-6
+roehnenergie-bus,7,5-rmvrev-7
+roehnenergie-bus,8,5-rmvrev-8
+roehnenergie-bus,15,5-rmvrev-15
+roehnenergie-bus,16,5-rmvrev-16
 rmv-db-sbahn,S1,s1
 rmv-db-sbahn,S2,s2
 rmv-db-sbahn,S3,s3
@@ -3663,40 +3732,37 @@ sued-thueringen-bahn,RB46,rb46
 sued-thueringen-bahn,RB48,rb48
 sued-thueringen-bahn,RE50,re50
 svg-stuttgart,RE4,re4
-svv-brb,S3,at:svv:REX3:
-svv-brb,S4,at:svv:S4:
-sweg-stuttgart,RE 6,re6
-sweg-stuttgart,RE 10a,re10a
-sweg-stuttgart,RE 10b,re10b
-sweg-stuttgart,RE 71,re71
-sweg-stuttgart,MEX 12,mex12
-sweg-stuttgart,MEX 17a,mex17a
-sweg-stuttgart,MEX 17c,mex17c
-sweg-stuttgart,MEX 18,mex18
-sweg-stuttgart,RB 17a,rb17a
-sweg-stuttgart,RB 17c,rb17c
-sweg-stuttgart,RB 18,rb18
-sweg-stuttgart,RE 18,re18
-sweg-stuttgart,RB 10a,rb10a
+svv-brb,S3,REX3,REX3
+svv-brb,S4,S4,S4
+svv-oebb,R3,r3
+svv-oebb,R9,r9
+svv-oebb,R21,r21
+svv-oebb,REX2,rex2
+svv-oebb,REX21,rex21
+svv-oebb,S2,s2
+svv-oebb,S3,s3
+svv-slb,R33,r33
+svv-slb,S1,s1
+svv-slb,S11,lex11
 sweg-sudwest,RE4,re4
-sweg-sudwest,RB 42,swe-rb42
-sweg-sudwest,RB 42a,swerb42a
-sweg-sudwest,RE 42,re42
-sweg-sudwest,RB 43,swe-rb43
-sweg-sudwest,RB 43a,swerb43a
-sweg-sudwest,RB 59a,swerb59a
-sweg-sudwest,RB 66,swe-rb66
+sweg-sudwest,RB42,rb42
+sweg-sudwest,RB42a,rb42a
+sweg-sudwest,RE42,re42
+sweg-sudwest,RB43,rb43
+sweg-sudwest,RB43a,rb43a
+sweg-sudwest,RB59a,rb59a
+sweg-sudwest,RB66,rb66
 sweg-sudwest,RE66,re66
-sweg-sudwest,RB 67,swe-rb67
-sweg-sudwest,RB 68,swe-rb68
-sweg-sudwest,RB 68a,re68a
-sweg-sudwest,RB 69,swe-rb69
-sweg-sudwest,RB 76,rb76
-sweg-sudwest,RS 1,swe-rs1
-sweg-sudwest,RS 11,swe-rs11
-sweg-sudwest,RS 12,swe-rs12
-sweg-sudwest,RS 2,swe-rs2
-sweg-sudwest,RS 4,swe-rs4
+sweg-sudwest,RB67,rb67
+sweg-sudwest,RB68,rb68
+sweg-sudwest,RB68a,re68a
+sweg-sudwest,RB69,rb69
+sweg-sudwest,RB76,rb76
+sweg-sudwest,RS1,rs1
+sweg-sudwest,RS11,rs11
+sweg-sudwest,RS12,rs12
+sweg-sudwest,RS2,rs2
+sweg-sudwest,RS4,rs4
 tgo-suedwestbus,400,5-rbgrvs-400
 tgo-suedwestbus,423,5-rbgrvs-423
 tgo-suedwestbus,425,5-rbgrvs-425
@@ -3979,11 +4045,17 @@ vbn-nwb-regio-s-bahn,RS 3,rs3
 vbn-nwb-regio-s-bahn,RS 30,rs30
 vbn-nwb-regio-s-bahn,RS 4,rs4
 vbn-nwb-regio-s-bahn,RS 6,rs6
+vgc-daeuble,668,5-cw001-668
 vgc-daeuble,770,5-vvs031-770
 vgc-eberhardt,715,5-vvs031-715
 vgc-eberhardt,724,5-vvs031-724
 vgc-eberhardt,820,5-vvs031-820
 vgc-eberhardt,824,5-vvs031-824
+vgc-lb-nordost,662,5-cw032-662
+vgc-lb-nordost,670,5-cw032-670
+vgc-lb-nordost,671,5-cw032-671
+vgc-lb-nordost,672,5-cw032-672
+vgc-lb-nordost,880,5-cw032-880
 vgc-rab,300,5-rabrab-300
 vgc-rab,320,5-rabrab-320
 vgc-rab,420,5-rabrab-420
@@ -4021,6 +4093,7 @@ vgc-volz,663,5-cw032-663
 vgc-volz,664,5-cw032-664
 vgc-volz,670,5-cw032-670
 vgc-volz,880,5-cw032-880
+vgc-walz,801,5-cw032-801
 vgf-freizeitverkehr,F 1,6-voe091-f1
 vgf-freizeitverkehr,F 3,6-voe091-f3
 vgf-freizeitverkehr,F 9,6-voe091-f9
@@ -4198,12 +4271,12 @@ vhb-stadtbus-singen,7,5-vhb003-7
 vhb-stadtbus-singen,8,5-vhb003-8
 vhb-stadtbus-singen,9,5-vhb003-9
 vhb-stadtbus-singen,10,5-vhb003-10
+vias,RE80,re80
+vias,RE85,re85
 vias,RB10,rb10
-vias,RB19,rb19
+vias,RB61,rb61
 vias,RB66,rb66
-vias,RB85,rb85
 vias,RB86,rb86
-vias,RB80,rb80
 vias,RB81,rb81
 vias,RB82,rb82
 vlexx,EX,ex
@@ -4213,6 +4286,7 @@ vlexx,RE4,re4
 vlexx,RE13,re13
 vlexx,RE15,re15
 vlexx,RE17,re17
+vlexx,RE34,re34
 vlexx,RB31,rb31
 vlexx,RB33,rb33
 vlexx,RB34,rb34
@@ -4278,22 +4352,6 @@ vmt-weimar,6,8-rmwswg-6
 vmt-weimar,7,8-rmwswg-7
 vmt-weimar,8,8-rmwswg-8
 vmt-weimar,9,8-rmwswg-9
-vor-oebb,S1,at:vor:s1:
-vor-oebb,S2,at:vor:s2:
-vor-oebb,S3,at:vor:s3:
-vor-oebb,S4,at:vor:s4:
-vor-oebb,S7,at:vor:s7:
-vor-oebb,S40,at:vor:s40:
-vor-oebb,S45,at:vor:s45:
-vor-oebb,S50,at:vor:s50:
-vor-oebb,S60,at:vor:s60:
-vor-oebb,S80,at:vor:s80:
-vor-wl,18,8-810009-18
-vor-wl,U1,vor-21-u1
-vor-wl,U2,vor-21-u2
-vor-wl,U3,vor-21-u3
-vor-wl,U4,vor-21-u4
-vor-wl,U6,vor-21-u6
 vos-osnabrueck,10,5-webos1-10
 vos-osnabrueck,12,5-web-os-12
 vos-osnabrueck,13,5-webvos-13
@@ -5531,6 +5589,8 @@ vrr-rheinbahn,U76,7-vrr070-u76
 vrr-rheinbahn,U77,7-vrr070-u77
 vrr-rheinbahn,U78,7-vrr070-u78
 vrr-rheinbahn,U79,7-vrr070-u79
+vrr-rheinbahn,U80,7-vrr070-u80
+vrr-rheinbahn,U81,7-vrr070-u81
 vrr-rheinbahn,U83,7-vrr070-u83
 vrr-rheinbahn,701,8-vrr071-701
 vrr-rheinbahn,704,8-vrr071-704
@@ -6290,6 +6350,7 @@ vvs-rab,972A,5-rabrab-972a
 vvs-relex,X10,5-vvs035-x10
 vvs-relex,X20,5-vvs035-x20
 vvs-relex,X60,5-vvs035-x60
+vvs-relex,X92,5-vvs035-x92
 vvs-relex,X93,5-vvs035-x93
 vvs-ruftaxi,RT92,5-vvs050-rt92
 vvs-ruftaxi,RT161,5-vvs050-rt161
