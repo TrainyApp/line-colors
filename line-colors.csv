@@ -88,7 +88,7 @@ avv-sbk,798,,5-avvbus-798,#004e9e,#ffffff,,circle,,14407,Koenigsbrunn Stadtbus
 avv-zzz,395,,5-avvbus-395,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
 avv-zzz,694,,5-avvbus-694,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
-bentheimer-eisenbahn,RB56,,,#1b83c5,#ffffff,,rectangle-rounded-corner,,10847,Bentheimer Eisenbahn
+bentheimer-eisenbahn,RB56,,rb56,#1b83c5,#ffffff,,rectangle-rounded-corner,,10847,Bentheimer Eisenbahn
 bob,RB91,bodensee-oberschwaben-bahn,rb91,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
 bodo-buchmann,1 Blau,,5-bod001-1Blau,#009ee3,#ffffff,,rectangle,,7546,Buchmann
 bodo-buchmann,2 Rot,,5-bod001-2Rot,#cd1619,#ffffff,,rectangle,,7546,Buchmann
@@ -287,11 +287,11 @@ brb,RB 83,bayerische-regiobahn,rb83,#ffffff,#bf73bf,#bf73bf,rectangle,,10969,Bay
 brb,RE 5,bayerische-regiobahn,re5,#00416d,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,S3,bayerische-regiobahn,s3,#2aa335,#ffffff,,pill,,10969,Bayerische Regiobahn
 brb,S4,bayerische-regiobahn,s4,#a765a2,#ffffff,,pill,,10969,Bayerische Regiobahn
-cantus,RB5,,,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
-cantus,RB6,,,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
-cantus,RB83,,,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
-cantus,RB87,,,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
-cantus,RE5,,,#009890,#ffffff,,rectangle,,13424,cantus Verkehrsgesellschaft
+cantus,RB5,cantus-verkehrsgesellschaft,re5,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
+cantus,RB6,cantus-verkehrsgesellschaft,rb5,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
+cantus,RB83,cantus-verkehrsgesellschaft,rb6,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
+cantus,RB87,cantus-verkehrsgesellschaft,rb83,#009890,#ffffff,,rectangle,,10907,cantus Verkehrsgesellschaft
+cantus,RE5,cantus-verkehrsgesellschaft,rb87,#009890,#ffffff,,rectangle,,13424,cantus Verkehrsgesellschaft
 ceske-drahy,RE 25,ceske-drahy,ex352,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex354,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex362,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
@@ -445,21 +445,21 @@ db-regio-mitte,RB82,db-regio-ag-mitte,rb82,#8bc640,#ffffff,,rectangle-rounded-co
 db-regio-mitte,RB83,db-regio-ag-mitte,rb83,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB84,db-regio-ag-mitte,rb84,#8bc640,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB87,db-regio-ag-mitte,rb87,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-nord,RB37,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB38,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB44,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB45,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB46,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB48,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB77,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB79,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB80,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB82,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RB86,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RE1,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RE2,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RE5,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
-db-regio-nord,RE9,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB37,,rb37,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB38,,rb38,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB44,,rb44,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB45,,rb45,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB46,,rb46,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB48,,rb48,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB77,,rb77,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB79,,rb79,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB80,,rb80,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB82,,rb82,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB86,,rb86,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE1,,re1,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE2,,re2,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE5,,re5,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE9,,re9,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
 db-regio-nordost,FEX,db-regio-ag-nordost,fex,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
 db-regio-nordost,RB10,db-regio-ag-nordost,rb10,#66aa22,#ffffff,,rectangle,Q15195695,10434,DB Regio AG Nordost
 db-regio-nordost,RB11,db-regio-ag-nordost,rb11,#ed1c24,#ffffff,,rectangle,,10434,DB Regio AG Nordost
@@ -798,8 +798,8 @@ dvg-dessau,Rufbus N4,,9-nas001-n4,#000000,#ffffff,,pill,,10357,Dessauer Verkehrs
 dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,,10357,Dessauer Verkehrsgesellschaft
-enno,RE30,,,#e30513,#ffffff,,rectangle,,10930,enno
-enno,RE50,,,#e30513,#ffffff,,rectangle,,10930,enno
+enno,RE30,,re30,#e30513,#ffffff,,rectangle,,10930,enno
+enno,RE50,,re50,#e30513,#ffffff,,rectangle,,10930,enno
 erfurter-bahn,RE12,erfurter-bahn-gmbh,re12,#ec6607,#ffffff,,rectangle-rounded-corner,,10866,Erfurter Bahn Express
 erfurter-bahn,RB13,erfurter-bahn-gmbh,rb13,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB21,erfurter-bahn-gmbh,rb21,#e30513,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
@@ -813,11 +813,11 @@ erfurter-bahn,RB32,erfurter-bahn-gmbh,rb32,#e30513,#ffffff,,rectangle-rounded-co
 erfurter-bahn,RB40,erfurter-bahn-gmbh,rb40,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB50,erfurter-bahn-gmbh,rb50,#008136,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB76,erfurter-bahn-gmbh,rb76,#822b86,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
-erixx,RB32,,,#014895,#ffffff,,rectangle,,10966,erixx
-erixx,RB42,,,#014895,#ffffff,,rectangle,,10966,erixx
-erixx,RB43,,,#014895,#ffffff,,rectangle,,10966,erixx
-erixx,RB47,,,#014895,#ffffff,,rectangle,,10966,erixx
-erixx,RE10,,,#e30513,#ffffff,,rectangle,,10966,erixx
+erixx,RB32,,rb32,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB42,,rb42,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB43,,rb43,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB47,,rb47,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RE10,,re10,#e30513,#ffffff,,rectangle,,10966,erixx
 fulda-ast,AST 12,rmvrev,5-rmvrev-at12,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
 fulda-citybus,1,rmvrev,5-rmvrev-1,#00b1eb,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
 fulda-citybus,2,rmvrev,5-rmvrev-2,#e30b17,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
@@ -3697,14 +3697,14 @@ stadtwerke-passau,Linie K3,,5-swpvbp-K3,#763226,#ffffff,,rectangle,,8121,Stadtwe
 stadtwerke-passau,Linie K4,,5-swpvbp-K4,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
-sued-thueringen-bahn,RB41,,,#006eab,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
-sued-thueringen-bahn,RB43,,,#e30513,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
-sued-thueringen-bahn,RB44,,,#f39200,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
-sued-thueringen-bahn,RE45,,,#008136,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
-sued-thueringen-bahn,RB46,,,#12a537,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
-sued-thueringen-bahn,RB48,,,#0096d7,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
-sued-thueringen-bahn,RE50,,,#ec6607,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
-svg-stuttgart,RE4,,,#a05a2c,#ffffff,,rectangle,,10954,Nebenbahn Vaihingen-Enzweihingen
+sued-thueringen-bahn,RB41,,rb41,#006eab,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB43,,rb43,#e30513,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB44,,rb44,#f39200,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RE45,,re45,#008136,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
+sued-thueringen-bahn,RB46,,rb46,#12a537,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB48,,rb48,#0096d7,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RE50,,re50,#ec6607,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
+svg-stuttgart,RE4,,re4,#a05a2c,#ffffff,,rectangle,,10954,Nebenbahn Vaihingen-Enzweihingen
 svv-brb,S3,bayerische-regiobahn,at:svv:REX3:,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
 svv-brb,S4,bayerische-regiobahn,at:svv:S4:,#9764ac,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
 sweg-stuttgart,RE 6,sweg-bahn-stuttgart-gmbh,re6,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
@@ -3803,8 +3803,8 @@ tlx,RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-round
 tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#db031c,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,T9,trilex-die-landerbahn-gmbh-dlb,tl-t9,#f6b90b,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
-trans-regio,RE2,,,#7a52a1,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
-trans-regio,RB32,,,#da8a9b,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
+trans-regio,RE2,,re2,#7a52a1,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
+trans-regio,RB32,,rb32,#da8a9b,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
@@ -4300,11 +4300,6 @@ vlexx,RB72,vlexx,rb72,#6d8c51,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB73,vlexx,rb73,#00785b,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB74,vlexx,rb74,#40b98c,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB76,vlexx,rb76,#92c83e,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-cantus,RE 5,cantus-verkehrsgesellschaft,re5,#e2001a,#ffffff,,rectangle-rounded-corner,,10931,cantus
-cantus,RB 5,cantus-verkehrsgesellschaft,rb5,#e2001a,#ffffff,,rectangle-rounded-corner,,10931,cantus
-cantus,RB 6,cantus-verkehrsgesellschaft,rb6,#e2001a,#ffffff,,rectangle-rounded-corner,,10931,cantus
-cantus,RB 83,cantus-verkehrsgesellschaft,rb83,#e2001a,#ffffff,,rectangle-rounded-corner,,10931,cantus
-cantus,RB 87,cantus-verkehrsgesellschaft,rb87,#e2001a,#ffffff,,rectangle-rounded-corner,,10931,cantus
 vms-chemnitzbahn,C11,vms-chemnitzbahn,c11,#ab98c4,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C13,vms-chemnitzbahn,c13,#62b9bd,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C14,vms-chemnitzbahn,c14,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
