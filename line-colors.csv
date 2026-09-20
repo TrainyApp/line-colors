@@ -642,7 +642,13 @@ ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
-ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-gairing,Pfiffibus 1,,5-ald044-Pf1,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 1
+ding-gairing,Pfiffibus 2,,5-ald044-Pf2,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 2
+ding-gairing,Pfiffibus 3,,5-ald044-Pf3,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 3
+ding-gairing,Pfiffibus 4,,5-ald044-Pf4,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 4
+ding-gairing,Pfiffibus 5,,5-ald044-Pf5,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 5
+ding-gairing,Pfiffibus 6,,5-ald044-Pf6,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 6
+ding-gairing,Pfiffibus 7,,5-ald044-Pf7,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
 ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
