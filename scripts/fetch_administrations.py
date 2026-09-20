@@ -19,6 +19,13 @@ adapter = requests.adapters.HTTPAdapter()
 adapter.init_poolmanager(10, 10, ssl_context=context)
 session.mount("https://", adapter)
 
+# bahn.de is behind a bot filter that rejects the default requests user agent with 403
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+    "Accept": "application/json",
+})
+
 def fix_id(admin_id: str, is_sbahn: bool) -> str:
     if len(admin_id) == 6 and not is_sbahn:
         return admin_id[0:4]
@@ -35,4 +42,4 @@ def fetch_administration_map() -> dict[str, str]:
         }
         return administration_map
     else:
-        raise Exception(f"Failed to fetch data; HTTP status code: {response.status_code}")
+        raise Exception(f"Failed to fetch data; HTTP status code: {response.status_code}; {response.text}")
