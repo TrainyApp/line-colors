@@ -1019,11 +1019,11 @@ hnv-zuegel,636,,,#ffffff,#949b4f,,rectangle,,13517,Bus (Region)
 hvv-akn,A 1,,,#f7931d,#ffffff,,pill,Q19368804,10833,AKN Eisenbahn AG
 hvv-akn,A 2,,,#f7931d,#ffffff,,pill,Q19582807,10833,AKN Eisenbahn AG
 hvv-akn,A 3,,,#f7931d,#ffffff,,pill,Q19606155,10833,AKN Eisenbahn AG
-hvv-db-sbhh,S 1,,,#4da553,#ffffff,,pill,Q19377130,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 2,,,#95334a,#ffffff,,pill,Q19390036,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 3,,,#512c75,#ffffff,,pill,Q19368685,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 5,,,#3b87a9,#ffffff,,pill,Q63451353,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 7,,,#c07b35,#ffffff,,pill,Q136881945,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 1,hvv-db-sbhh,,#4da553,#ffffff,,pill,Q19377130,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 2,hvv-db-sbhh,,#95334a,#ffffff,,pill,Q19390036,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 3,hvv-db-sbhh,,#512c75,#ffffff,,pill,Q19368685,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 5,hvv-db-sbhh,,#3b87a9,#ffffff,,pill,Q63451353,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 7,hvv-db-sbhh,,#c07b35,#ffffff,,pill,Q136881945,10375,S-Bahn Hamburg
 hvv-had,61,,,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,62,,,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,64,,,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
