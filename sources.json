@@ -3036,6 +3036,20 @@
         ]
     },
     {
+        "shortOperatorName": "roehnenergie-bus",
+        "source": [
+            {
+                "name": "LiniennetzplanFulda",
+                "source": "https://www.regiodisplay.de/images/pdf/Liniennetzplan_Fulda.pdf"
+            }
+        ],
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rosa-rvhi",
         "contributors": [
             {
@@ -6034,6 +6048,186 @@
         ]
     },
     {
+        "shortOperatorName": "vrt-andre",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Schneifel",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Schneifel"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-bkr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Eifelmaare und Eifel-Kondelwald",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzplankarte-Eifel-Kondelwald"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-drm",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Eifelmaare und Eifel-Kondelwald",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzplankarte-Eifel-Kondelwald"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-emv",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Neuerburger Land",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Neuerburgerland"
+            },
+			{
+                "name": "VRT Liniennetzkarte Wittlicher Land und Hunsrück",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Wittlicher-Land"
+            },
+			{
+                "name": "VRT Liniennetzkarte Waldeifel",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Waldeifel"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-jozi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Ruwertal-Hochwald",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Ruwertal-Hochwald"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-kylltal",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Trier-Land",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Trier-Land"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-linden",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Kylltal",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Kylltal"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-moselbahn",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Mosel und Römische Weinstraße",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Roemische-Weinstrasse"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-rmb",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Östliche Vulkaneifel",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Oestliche-Vulkaneifel"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-saargau",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Saargau",
+                "source": "https://www.vrt-info.de/downloads/Liniennetkarte-Saargau"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-swt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "SWT Liniennetzplan Trier 2024",
+                "source": "https://www.vrt-info.de/downloads/liniennetzplan-trier.pdf"
+            },
+            {
+                "name": "SWT Fahrpläne Schülerverkehr",
+                "source": "https://www.swt.de/api/media/file/9973_full.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrt-tempus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRT Liniennetzkarte Südeifel",
+                "source": "https://www.vrt-info.de/downloads/Liniennetzkarte-Suedeifel"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vsn-goevb",
         "contributors": [
             {
@@ -6359,20 +6553,6 @@
             {
                 "name": "Liniennetzplan bwegt",
                 "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-db-sbs-stammstreckensperrung",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bauarbeiten Stammstrecke vom 20. Juli – 11. September 2026",
-                "source": "https://www.vvs.de/fileadmin/5_Service/5.3_News/Redaktionell_migriert/2025_07_25_Stammstreckensperrung/Stammstreckensperrung_2026.pdf"
             }
         ]
     },
