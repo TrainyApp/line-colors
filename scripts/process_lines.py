@@ -20,6 +20,7 @@ def build_lines(colors_path: str, line_ids_path: str, columns: list[str],
             print(f"{colors_path}: no hafas line id for {line_key[0]} {line_key[1]}, skipping")
             continue
         line = {column: color.get(column, "") for column in columns}
+        line["hafasOperatorCode"] = line["hafasOperatorCode"] or line["shortOperatorName"]
         line["hafasLineId"] = line_ids[line_key]
         line["delfiAgencyID"] = color[agency_id_column]
         line["delfiAgencyName"] = color[agency_name_column]
@@ -73,7 +74,7 @@ relevant_operators = (
 relevant_operators_with_name = {}
 
 for relevant_operator in relevant_operators:
-    name = operators[relevant_operator]
+    name = operators[relevant_operator] if relevant_operator in operators else relevant_operator
     matching_id = manual_operators[relevant_operator] if relevant_operator in manual_operators else None
     matching_id = administrations[name] if name in administrations and matching_id is None else matching_id
     if matching_id is None:

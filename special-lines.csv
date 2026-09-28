@@ -18,7 +18,6 @@ re11,cfl,RE 11,800640
 rb83,cfl,RB 83,801512
 r91,polregio,RB91,51
 ,salzburger-lokalbahnen,R33,81
-re70,db-regio-mitte,8005
 s1,db-regio-ag-mitte-s-bahn-vrn,S 1,8000244
 s2,db-regio-ag-mitte-s-bahn-vrn,S 2,801539
 s3,db-regio-ag-mitte-s-bahn-vrn,S 3,801539
@@ -48,4 +47,13 @@ s11,db-regio-ag-nrw,S 11,8003S
 s12,db-regio-ag-nrw,S 12,8003S
 s19,db-regio-ag-nrw,S 19,8003S
 s23,db-regio-ag-nrw,S 23,800352
-s68,db-regio-ag-nrw,S 68,8003S
+s68,nrw-sbahn,S 68,8003S
+rs2,regio-s-bahn-donau-iller,RS 2,800622
+rs21,regio-s-bahn-donau-iller,RS 21,800622
+rs3,regio-s-bahn-donau-iller,RS 3,S6
+rs5,regio-s-bahn-donau-iller,RS 5,S6
+rs51,regio-s-bahn-donau-iller,RS 51,S6
+rs7,regio-s-bahn-donau-iller,RS 7,8007DU
+rs71,regio-s-bahn-donau-iller,RS 71,8007DU
+re34,nrw-regional,RE 34,R4NRN
+rb91,nrw-regional,RB 91,R4NRN
