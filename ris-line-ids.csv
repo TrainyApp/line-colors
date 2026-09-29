@@ -6016,6 +6016,361 @@ vrs-wupsi,SB23,5-vrs003-sb23
 vrs-wupsi,SB24,5-vrs003-sb24
 vrs-wupsi,SB25,5-vrs003-sb25
 vrs-wupsi,SB42,5-vrs003-sb42
+vrt-andre,460,5-swt021-460
+vrt-andre,461,5-swt021-461
+vrt-andre,462 RufBus,3-swt021-462 RufB
+vrt-andre,462,5-swt021-462
+vrt-andre,463,5-swt021-463
+vrt-andre,464,5-swt021-464
+vrt-andre,465,5-swt021-465
+vrt-andre,466 RufBus,3-swt021-466 RufB
+vrt-andre,466,5-swt021-466
+vrt-andre,467,5-swt021-467
+vrt-andre,468,5-swt021-468
+vrt-andre,469,5-swt021-469
+vrt-andre,471,5-swt021-471
+vrt-andre,472 RufBus,3-swt021-472 RufB
+vrt-andre,472,5-swt021-472
+vrt-andre,473 RufBus,3-swt021-473 RufB
+vrt-andre,473,5-swt021-473
+vrt-andre,474,5-swt021-474
+vrt-andre,476,5-swt021-476
+vrt-andre,477,5-swt021-477
+vrt-andre,478,5-swt021-478
+vrt-andre,479,5-swt021-479
+vrt-andre,480 RufBus,3-swt021-480 RufB
+vrt-andre,481 RufBus,3-swt021-481 RufB
+vrt-andre,482 RufBus,3-swt021-482 RufB
+vrt-andre,483 RufBus,3-swt021-483 RufB
+vrt-andre,484 RufBus,3-swt021-484 RufB
+vrt-andre,485 RufBus,3-swt021-485 RufB
+vrt-andre,486 RufBus,3-swt021-486 RufB
+vrt-bkr,300,5-swt030-300
+vrt-bkr,350,5-swt030-350
+vrt-bkr,351 RufBus,3-swt030-351 RufB
+vrt-bkr,351,5-swt030-351
+vrt-bkr,352,5-swt030-352
+vrt-bkr,353 RufBus,3-swt030-353 RufB
+vrt-bkr,353,5-swt030-353
+vrt-bkr,355 RufBus,3-swt030-355 RufB
+vrt-bkr,355,5-swt030-355
+vrt-bkr,356,5-swt030-356
+vrt-bkr,358 RufBus,3-swt030-358 RufB
+vrt-bkr,358,5-swt030-358
+vrt-bkr,555,5-swt030-555
+vrt-drm,533 RufBus,3-rbpru2-533 RufB
+vrt-drm,533,5-rbpru2-533
+vrt-drm,551 RufBus,3-rbpru2-551 RufB
+vrt-drm,551,5-rbpru2-551
+vrt-drm,553 RufBus,3-rbpru2-553 RufB
+vrt-drm,553,5-rbpru2-553
+vrt-drm,560,5-rbpru2-560
+vrt-drm,561 RufBus,3-rbpru2-561 RufB
+vrt-drm,561,5-rbpru2-561
+vrt-drm,565,5-rbpru2-565
+vrt-drm,566 RufBus,3-rbpru2-566 RufB
+vrt-drm,566,5-rbpru2-566
+vrt-drm,567 RufBus,3-rbpru2-567 RufB
+vrt-drm,567,5-rbpru2-567
+vrt-drm,568,5-rbpru2-568
+vrt-drm,569,5-rbpru2-569
+vrt-emv,307 RufBus,3-swt024-307 RufB
+vrt-emv,307,5-swt024-307
+vrt-emv,308 RufBus,3-swt024-308 RufB
+vrt-emv,308,5-swt024-308
+vrt-emv,309 RufBus,3-swt024-309 RufB
+vrt-emv,309,5-swt024-309
+vrt-emv,310,5-swt024-310
+vrt-emv,311,5-swt024-311
+vrt-emv,312 RufBus,3-swt024-312 RufB
+vrt-emv,312,5-swt024-312
+vrt-emv,313,5-swt024-313
+vrt-emv,314 RufBus,3-swt024-314 RufB
+vrt-emv,314,5-swt024-314
+vrt-emv,315 RufBus,3-swt024-315 RufB
+vrt-emv,315,5-swt024-315
+vrt-emv,318 RufBus,3-swt024-318 RufB
+vrt-emv,318,5-swt024-318
+vrt-emv,319 RufBus,3-swt024-319 RufB
+vrt-emv,319,5-swt024-319
+vrt-emv,320,5-swt024-320
+vrt-emv,321 RufBus,3-swt024-321 RufB
+vrt-emv,321,5-swt024-321
+vrt-emv,322,5-swt024-322
+vrt-emv,323,5-swt024-323
+vrt-emv,324 RufBus,3-swt024-324 RufB
+vrt-emv,324,5-swt024-324
+vrt-emv,325 RufBus,3-swt024-325 RufB
+vrt-emv,325,5-swt024-325
+vrt-emv,326,5-swt024-326
+vrt-emv,327,5-swt024-327
+vrt-emv,340,5-swt024-340
+vrt-emv,341,5-swt024-341
+vrt-emv,342 RufBus,3-swt024-342 RufB
+vrt-emv,342,5-swt024-342
+vrt-emv,343 RufBus,3-swt024-343 RufB
+vrt-emv,343,5-swt024-343
+vrt-emv,344 RufBus,3-swt024-344 RufB
+vrt-emv,344,5-swt024-344
+vrt-emv,345,5-swt024-345
+vrt-emv,346 RufBus,3-swt024-346 RufB
+vrt-emv,346,5-swt024-346
+vrt-emv,347 RufBus,3-swt024-347 RufB
+vrt-emv,347,5-swt024-347
+vrt-emv,348,5-swt024-348
+vrt-emv,380,5-swt024-380
+vrt-emv,381 RufBus,3-swt024-381 RufB
+vrt-emv,381,5-swt024-381
+vrt-emv,382 RufBus,3-swt024-382 RufB
+vrt-emv,382,5-swt024-382
+vrt-emv,383 RufBus,3-swt024-383 RufB
+vrt-emv,383,5-swt024-383
+vrt-emv,386 RufBus,3-swt024-386 RufB
+vrt-emv,386,5-swt024-386
+vrt-emv,387 RufBus,3-swt024-387 RufB
+vrt-emv,387,5-swt024-387
+vrt-emv,388 RufBus,3-swt024-388 RufB
+vrt-emv,388,5-swt024-388
+vrt-emv,389 RufBus,3-swt024-389 RufB
+vrt-emv,389,5-swt024-389
+vrt-emv,434,5-swt024-434
+vrt-emv,435,5-swt024-435
+vrt-emv,436 RufBus,3-swt024-436 RufB
+vrt-emv,436,5-swt024-436
+vrt-emv,437 RufBus,3-swt024-437 RufB
+vrt-emv,437,5-swt024-437
+vrt-emv,438,5-swt024-438
+vrt-emv,439 RufBus,3-swt024-439 RufB
+vrt-emv,439,5-swt024-439
+vrt-emv,440,5-swt024-440
+vrt-emv,441 RufBus,3-swt024-441 RufB
+vrt-emv,441,5-swt024-441
+vrt-emv,442,5-swt024-442
+vrt-emv,443 RufBus,3-swt024-443 RufB
+vrt-emv,443,5-swt024-443
+vrt-emv,444,5-swt024-444
+vrt-emv,445,5-swt024-445
+vrt-emv,446,5-swt024-446
+vrt-emv,447,5-swt024-447
+vrt-emv,450,5-swt024-450
+vrt-emv,451,5-swt024-451
+vrt-emv,452,5-swt024-452
+vrt-emv,453,5-swt024-453
+vrt-emv,454,5-swt024-454
+vrt-emv,455,5-swt024-455
+vrt-emv,456,5-swt024-456
+vrt-emv,457,5-swt024-457
+vrt-emv,458,5-swt024-458
+vrt-emv,459,5-swt024-459
+vrt-emv,487 RufBus,3-swt024-487 RufB
+vrt-emv,488 RufBus,3-swt024-488 RufB
+vrt-emv,489 RufBus,3-swt024-489 RufB
+vrt-emv,490 RufBus,3-swt024-490 RufB
+vrt-emv,491 RufBus,3-swt024-491 RufB
+vrt-emv,492 RuBus,3-swt024-492 RufB
+vrt-emv,493 RufBus,3-swt024-493 RufB
+vrt-emv,494 RufBus,3-swt024-494 RufB
+vrt-emv,495 RufBus,3-swt024-495 RufB
+vrt-emv,496 RufBus,3-swt024-496 RufB
+vrt-emv,497 RufBus,3-swt024-497 RufB
+vrt-emv,498 RufBus,3-swt024-498 RufB
+vrt-jozi,20,5-swt032-20
+vrt-jozi,200,5-swt032-200
+vrt-jozi,202,5-swt032-202
+vrt-jozi,203,5-swt032-203
+vrt-jozi,204,5-swt032-204
+vrt-jozi,205,5-swt032-205
+vrt-jozi,208,5-swt032-208
+vrt-jozi,209,5-swt032-209
+vrt-jozi,222,5-swt032-222
+vrt-jozi,226,5-swt032-226
+vrt-jozi,230,5-swt032-230
+vrt-jozi,231,5-swt032-231
+vrt-jozi,232 RufBus,3-swt032-232 RufB
+vrt-jozi,233,5-swt032-233
+vrt-jozi,234,5-swt032-234
+vrt-jozi,236 RufBus,3-swt032-236 RufB
+vrt-jozi,237,5-swt032-237
+vrt-jozi,238,5-swt032-238
+vrt-jozi,239,5-swt032-239
+vrt-jozi,240,5-swt032-240
+vrt-kylltal,25,5-swt031-25
+vrt-kylltal,26,5-swt031-26
+vrt-kylltal,28,5-swt031-28
+vrt-kylltal,251,5-swt031-251
+vrt-kylltal,252,5-swt031-252
+vrt-kylltal,258,5-swt031-258
+vrt-kylltal,259,5-swt031-259
+vrt-kylltal,260,5-swt031-260
+vrt-kylltal,261,5-swt031-261
+vrt-kylltal,262,5-swt031-262
+vrt-kylltal,264,5-swt031-264
+vrt-kylltal,269,5-swt031-269
+vrt-kylltal,281,5-swt031-281
+vrt-kylltal,282,5-swt031-282
+vrt-linden,530,5-swt022-530
+vrt-linden,531 RufBus,3-swt022-531 RufB
+vrt-linden,531,5-swt022-531
+vrt-linden,532 RufBus,3-swt022-532 RufB
+vrt-linden,532,5-swt022-532
+vrt-linden,534 RufBus,3-swt022-534 RufB
+vrt-linden,534,5-swt022-534
+vrt-linden,535 RufBus,3-swt022-535 RufB
+vrt-linden,535,5-swt022-535
+vrt-linden,536 RufBus,3-swt022-536 RufB
+vrt-linden,536,5-swt022-536
+vrt-linden,537 RufBus,3-swt022-537 RufB
+vrt-linden,537,5-swt022-537
+vrt-linden,538 RufBus,3-swt022-538 RufB
+vrt-linden,538,5-swt022-538
+vrt-linden,539 RufBus,3-swt022-539 RufB
+vrt-linden,539,5-swt022-539
+vrt-linden,540,5-swt022-540
+vrt-linden,541 RufBus,3-swt022-541 RufB
+vrt-linden,541,5-swt022-541
+vrt-linden,542 RufBus,3-swt022-542 RufB
+vrt-linden,542,5-swt022-542
+vrt-linden,543 RufBus,3-swt022-543 RufB
+vrt-linden,543,5-swt022-543
+vrt-linden,544,5-swt022-544
+vrt-linden,545 RufBus,3-swt022-545 RufB
+vrt-linden,545,5-swt022-545
+vrt-linden,546 RufBus,3-swt022-546 RufB
+vrt-linden,546,5-swt022-546
+vrt-linden,549 RufBus,3-swt022-549 RufB
+vrt-moselbahn,22,5-swt007-22
+vrt-moselbahn,27,5-swt007-27
+vrt-moselbahn,220,5-swt007-220
+vrt-moselbahn,221,5-swt007-221
+vrt-moselbahn,227,5-swt007-227
+vrt-moselbahn,228,5-swt007-228
+vrt-moselbahn,229,5-swt007-229
+vrt-moselbahn,271,5-swt007-271
+vrt-moselbahn,272,5-swt007-272
+vrt-moselbahn,274,5-swt007-274
+vrt-moselbahn,330,5-swt007-330
+vrt-moselbahn,332,5-swt007-332
+vrt-moselbahn,333,5-swt007-333
+vrt-moselbahn,334,5-swt007-334
+vrt-moselbahn,335,5-swt007-335
+vrt-moselbahn,360,5-swt007-360
+vrt-moselbahn,361,5-swt007-361
+vrt-moselbahn,362,5-swt007-362
+vrt-moselbahn,365,5-swt007-365
+vrt-moselbahn,367,5-swt007-367
+vrt-moselbahn,368,5-swt007-368
+vrt-moselbahn,369,5-swt007-369
+vrt-rmb,507 RufBus,3-rbpru2-507 RufB
+vrt-rmb,507,5-rbprmb-507
+vrt-rmb,508 RufBus,3-rbpru2-508 RufB
+vrt-rmb,508,5-rbprmb-508
+vrt-rmb,509 RufBus,3-rbpru2-509 RufB
+vrt-rmb,509,5-rbprmb-509
+vrt-rmb,512 RufBus,3-rbpru2-512 RufB
+vrt-rmb,512,5-rbprmb-512
+vrt-rmb,513 RufBus,3-rbpru2-513 RufB
+vrt-rmb,513,5-rbprmb-513
+vrt-rmb,514 RufBus,3-rbpru2-514 RufB
+vrt-rmb,514,5-rbprmb-514
+vrt-rmb,515,5-rbprmb-515
+vrt-rmb,516 RufBus,3-rbpru2-516 RufB
+vrt-rmb,516,5-rbprmb-516
+vrt-rmb,517 RufBus,3-rbpru2-517 RufB
+vrt-rmb,517,5-rbprmb-517
+vrt-rmb,518,5-rbprmb-518
+vrt-rmb,519 RufBus,3-rbpru2-519 RufB
+vrt-rmb,520,5-rbprmb-520
+vrt-rmb,521,5-rbprmb-521
+vrt-rmb,525 RufBus,3-rbpru2-525 RufB
+vrt-rmb,525,5-rbprmb-525
+vrt-rmb,526 RufBus,3-rbpru2-526 RufB
+vrt-rmb,526,5-rbprmb-526
+vrt-rmb,528 RufBus,3-rbpru2-528 RufB
+vrt-rmb,528,5-rbprmb-528
+vrt-rmb,529 RufBus,3-rbpru2-529 RufB
+vrt-rmb,529,5-rbprmb-529
+vrt-rmb,582,5-rbprmb-582
+vrt-rmb,585,5-rbprmb-585
+vrt-saargau,235,5-swt009-235
+vrt-saargau,241,5-swt009-241
+vrt-saargau,242,5-swt009-242
+vrt-saargau,243,5-swt009-243
+vrt-saargau,244,5-swt009-244
+vrt-saargau,245,5-swt009-245
+vrt-saargau,246,5-swt009-246
+vrt-saargau,247,5-swt009-247
+vrt-saargau,248,5-swt009-248
+vrt-saargau,249,5-swt009-249
+vrt-saargau,290,5-swt009-290
+vrt-saargau,291,5-swt009-291
+vrt-saargau,292,5-swt009-292
+vrt-saargau,293,5-swt009-293
+vrt-saargau,294,5-swt009-294
+vrt-saargau,295,5-swt009-295
+vrt-saargau,296,5-swt009-296
+vrt-saargau,297,5-swt009-297
+vrt-saargau,298,5-swt009-298
+vrt-saargau,299,5-swt009-299
+vrt-swt,1,5-swt001-1
+vrt-swt,2,5-swt001-2
+vrt-swt,3,5-swt001-3
+vrt-swt,4,5-swt001-4
+vrt-swt,5,5-swt001-5
+vrt-swt,6,5-swt001-6
+vrt-swt,7,5-swt001-7
+vrt-swt,8,5-swt001-8
+vrt-swt,9,5-swt001-9
+vrt-swt,10,5-swt001-10
+vrt-swt,11,5-swt001-11
+vrt-swt,13,5-swt001-13
+vrt-swt,14,5-swt001-14
+vrt-swt,17 AST,3-swt001-17AST
+vrt-swt,17,5-swt001-17
+vrt-swt,18,5-swt001-18
+vrt-swt,30,5-swt001-30
+vrt-swt,31,5-swt001-31
+vrt-swt,32,5-swt001-32
+vrt-swt,50/S,5-swt001-50/S
+vrt-swt,51/S,5-swt001-51/S
+vrt-swt,53/S,5-swt001-53/S
+vrt-swt,55/S,5-swt001-55/S
+vrt-swt,56/S,5-swt001-56/S
+vrt-swt,57/S,5-swt001-57/S
+vrt-swt,58/S,5-swt001-58/S
+vrt-swt,59/S,5-swt001-59/S
+vrt-swt,73,5-swt001-73
+vrt-swt,76,5-swt001-76
+vrt-swt,80,5-swt001-80
+vrt-swt,81,5-swt001-81
+vrt-swt,82,5-swt001-82
+vrt-swt,83,5-swt001-83
+vrt-swt,84,5-swt001-84
+vrt-swt,85,5-swt001-85
+vrt-swt,86,5-swt001-86
+vrt-swt,87,5-swt001-87
+vrt-swt,88,5-swt001-88
+vrt-swt,89,5-swt001-89
+vrt-tempus,400,5-swt026-400
+vrt-tempus,401,5-swt026-401
+vrt-tempus,402,5-swt026-402
+vrt-tempus,406,5-swt026-406
+vrt-tempus,408 RufBus,3-swt026-408 RufB
+vrt-tempus,408,5-swt026-408
+vrt-tempus,409,5-swt026-409
+vrt-tempus,410,5-swt026-410
+vrt-tempus,420,5-swt026-420
+vrt-tempus,421,5-swt026-421
+vrt-tempus,423 RufBus,3-swt026-423 RufB
+vrt-tempus,423,5-swt026-423
+vrt-tempus,426 RufBus,3-swt026-426 RufB
+vrt-tempus,426,5-swt026-426
+vrt-tempus,427,5-swt026-427
+vrt-tempus,428 RufBus,3-swt026-428 RufB
+vrt-tempus,428,5-swt026-428
+vrt-tempus,429 RufBus,3-swt026-429 RufB
+vrt-tempus,429,5-swt026-429
+vrt-tempus,431 RufBus,3-swt026-431 RufB
+vrt-tempus,431,5-swt026-431
 vsn-goevb,11,5-webgoe-11
 vsn-goevb,12,5-webgoe-12
 vsn-goevb,21,5-webgoe-21
