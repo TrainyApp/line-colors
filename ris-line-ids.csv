@@ -825,8 +825,6 @@ erixx,RB42,rb42
 erixx,RB43,rb43
 erixx,RB47,rb47
 erixx,RE10,re10
-roehnenergie-bus,15,5-rmvrev-15
-roehnenergie-bus,16,5-rmvrev-16
 hans,RB16,rb16
 hans,RB33,rb33
 hans,RB34,rb34
@@ -3320,7 +3318,7 @@ roehnenergie-bus,AST 7,3-rmvrev-at7
 roehnenergie-bus,AST 8,3-rmvrev-at8
 roehnenergie-bus,AST 9,3-rmvrev-at9
 roehnenergie-bus,AST 10,3-rmvrev-at10
-roehnenergie-bus,AST 12,3-rmvrev-at12
+roehnenergie-bus,AST 11,3-rmvrev-at11
 roehnenergie-bus,AST 12,3-rmvrev-at12
 roehnenergie-bus,AST 13,3-rmvrev-at13
 roehnenergie-bus,AST 14,3-rmvrev-at14
