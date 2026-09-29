@@ -3933,7 +3933,7 @@ vbb-cv-tram,2,8-vbbcnt-2
 vbb-cv-tram,3,8-vbbcnt-3
 vbb-cv-tram,4,8-vbbcnt-4
 vbb-db-sbahn,S1,s1
-vbb-db-sbahn,S15,4-08-15
+vbb-db-sbahn,S15,s15
 vbb-db-sbahn,S2,s2
 vbb-db-sbahn,S25,s25
 vbb-db-sbahn,S26,s26
