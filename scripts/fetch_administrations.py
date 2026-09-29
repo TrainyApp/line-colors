@@ -27,7 +27,9 @@ session.headers.update({
 })
 
 def fix_id(admin_id: str, is_sbahn: bool) -> str:
-    if len(admin_id) == 6 and not is_sbahn:
+    if admin_id[0:2] != "80":
+        return admin_id[0:2]
+    elif len(admin_id) == 6 and not is_sbahn:
         return admin_id[0:4]
     else:
         return admin_id
