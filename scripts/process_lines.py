@@ -8,10 +8,11 @@ full_line_id = re.compile(r"[0-9]-.*", re.IGNORECASE)
 
 def build_lines(colors_path: str, line_ids_path: str, columns: list[str],
                 agency_id_column: str, agency_name_column: str) -> list[dict[str, str]]:
-    line_ids = {
-        (row["shortOperatorName"], row["lineName"]): row["hafasLineId"]
-        for row in read_csv(line_ids_path)
-    }
+    line_ids: dict[tuple[str, str], list[str]] = {}
+    for row in read_csv(line_ids_path):
+        ids = line_ids.setdefault((row["shortOperatorName"], row["lineName"]), [])
+        if row["hafasLineId"] not in ids:
+            ids.append(row["hafasLineId"])
 
     out = []
     for color in read_csv(colors_path):
@@ -19,12 +20,13 @@ def build_lines(colors_path: str, line_ids_path: str, columns: list[str],
         if line_key not in line_ids:
             print(f"{colors_path}: no hafas line id for {line_key[0]} {line_key[1]}, skipping")
             continue
-        line = {column: color.get(column, "") for column in columns}
-        line["hafasOperatorCode"] = line["hafasOperatorCode"] or line["shortOperatorName"]
-        line["hafasLineId"] = line_ids[line_key]
-        line["delfiAgencyID"] = color[agency_id_column]
-        line["delfiAgencyName"] = color[agency_name_column]
-        out.append(line)
+        for hafas_line_id in line_ids[line_key]:
+            line = {column: color.get(column, "") for column in columns}
+            line["hafasOperatorCode"] = line["hafasOperatorCode"] or line["shortOperatorName"]
+            line["hafasLineId"] = hafas_line_id
+            line["delfiAgencyID"] = color[agency_id_column]
+            line["delfiAgencyName"] = color[agency_name_column]
+            out.append(line)
     return out
 
 
