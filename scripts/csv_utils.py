@@ -28,6 +28,13 @@ def parse_stroke_colors(path: str) -> dict[(str, str), str]:
             out[special_line["hafasOperatorCode"], special_line["hafasLineId"]] = special_line["strokeColor"]
     return out
 
+def parse_ris_operators(path: str) -> dict[(str, str), str]:
+    out = {}
+    for operator in read_csv(path):
+        out[operator["hafas-id"], operator.get("operator-short-name") or ""] = operator["ris-id"]
+    return out
+
+
 def create_map(array: list[dict[str, str]]) -> dict[str, str]:
     out = {}
     for item in array:

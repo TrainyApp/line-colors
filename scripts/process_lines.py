@@ -1,6 +1,7 @@
 import re
+from typing import Optional
 
-from csv_utils import read_csv, write_csv, create_map, parse_special_lines, parse_stroke_colors
+from csv_utils import read_csv, write_csv, create_map, parse_ris_operators, parse_special_lines, parse_stroke_colors
 from fetch_administrations import fetch_administration_map
 
 full_line_id = re.compile(r"[0-9]-.*", re.IGNORECASE)
@@ -62,31 +63,27 @@ merge_lines(lines, build_country_lines("line-colors-AT.csv", "hafas-line-ids-AT.
 merge_lines(lines, build_country_lines("line-colors-LU.csv", "hafas-line-ids-LU.csv", columns))
 
 operators = create_map(read_csv("hafas-operators.csv"))
-manual_operators = create_map(read_csv("ris-operators.csv"))
+manual_operators = parse_ris_operators("ris-operators.csv")
 special_lines = parse_special_lines("special-lines.csv")
 stroke_colors = parse_stroke_colors("stroke-colors.csv")
 administrations = fetch_administration_map()
 
-relevant_operators = (
-    operator_name for row in lines if
-    (operator_name := row["hafasOperatorCode"]) and
-    not re.match(full_line_id, row["hafasLineId"])
-)
+def find_ris_operator_code(hafas_operator: str, short_operator_name: str) -> Optional[str]:
+    exact_key = (hafas_operator, short_operator_name)
+    if exact_key in manual_operators:
+        return manual_operators[exact_key]
+    if (hafas_operator, "") in manual_operators:
+        return manual_operators[hafas_operator, ""]
+    name = operators.get(hafas_operator, hafas_operator)
+    return administrations.get(name)
 
-relevant_operators_with_name = {}
-
-for relevant_operator in relevant_operators:
-    name = operators[relevant_operator] if relevant_operator in operators else relevant_operator
-    matching_id = manual_operators[relevant_operator] if relevant_operator in manual_operators else None
-    matching_id = administrations[name] if name in administrations and matching_id is None else matching_id
-    if matching_id is None:
-        continue
-    relevant_operators_with_name[relevant_operator] = matching_id
 
 for line in lines:
     operator_id = line["hafasOperatorCode"]
-    if operator_id in relevant_operators_with_name:
-        line["risOperatorCode"] = relevant_operators_with_name[operator_id]
+    if operator_id and not re.match(full_line_id, line["hafasLineId"]):
+        ris_operator_code = find_ris_operator_code(operator_id, line["shortOperatorName"])
+        if ris_operator_code is not None:
+            line["risOperatorCode"] = ris_operator_code
     composite_line_key = (line["hafasOperatorCode"], line["hafasLineId"])
     if composite_line_key in special_lines.keys():
         line["risOperatorCode"] = special_lines[composite_line_key]
